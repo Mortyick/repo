@@ -1,9 +1,8 @@
 Package: com.mortyick.respringlooper
-Version: 1.0
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Mortyick
 Installed-Size: 72
-Filename: ./debs/com.mortyick.respringlooper_1.0-1+debug_iphoneos-arm.deb
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
 Section: Tweaks
 Description: Puts your device in a respring loop, do not use!
