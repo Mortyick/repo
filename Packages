@@ -22,6 +22,9 @@ Installed-Size: 72
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Size: 1912
 Section: Tweaks
+MD5sum: b37a61848af4257ab0cf5337c99ae983
+SHA1: 6d202ce59a2b54167d66aefabd295e48d1dc5da3
+SHA256: f9dc16cfa41dcd1d6e4b21186dcb1527058a90b06cb127d6abbab8a8555c9456
 Filename: ./debs/com.mortyick.respringlooper_1.0_iphoneos-arm64.deb
 Description: Puts your device in a respring loop, do not use!
 Author: Mortyick
