@@ -1,5 +1,5 @@
 Package: com.mortyick.respringlooper
-Version: 1.0
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Mortyick
 Installed-Size: 72
@@ -11,7 +11,7 @@ Author: Mortyick
 Name: RespringLooper
 
 Package: com.mortyick.respringlooper
-Version: 1.0
+Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Mortyick
 Installed-Size: 72
