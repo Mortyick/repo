@@ -2,6 +2,7 @@ Origin: Mortyick's Repo
 Label: Mortyick's Repo
 Suite: stable
 Version: 1.0
+Codename: mortyick
 Architectures: iphoneos-arm
 Components: main
 Description: random shit
