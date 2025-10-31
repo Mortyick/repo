@@ -5,6 +5,7 @@ Maintainer: Mortyick
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Section: Tweaks
+Filename: ./debs/com.mortyick.respringlooper_1.0_iphoneos-arm.deb
 Description: Puts your device in a respring loop, do not use!
 Author: Mortyick
 Name: RespringLooper
@@ -16,6 +17,7 @@ Maintainer: Mortyick
 Installed-Size: 72
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Section: Tweaks
+Filename: ./debs/com.mortyick.respringlooper_1.0_iphoneos-arm64.deb
 Description: Puts your device in a respring loop, do not use!
 Author: Mortyick
 Name: RespringLooper
