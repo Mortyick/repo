@@ -3,6 +3,6 @@ Label: Mortyick's Repo
 Suite: stable
 Version: 1.0
 Codename: mortyick
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: random shit
