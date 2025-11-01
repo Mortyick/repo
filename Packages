@@ -3,7 +3,6 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mortyick
 Depends: mobilesubstrate (>= 0.9.5000)
-Size: 1856
 Section: Tweaks
 MD5sum: b37a61848af4257ab0cf5337c99ae983
 SHA1: 6d202ce59a2b54167d66aefabd295e48d1dc5da3
