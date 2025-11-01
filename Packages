@@ -1,16 +1,18 @@
 Package: com.mortyick.respringlooper
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Mortyick
-Depends: mobilesubstrate (>= 0.9.5000)
-Section: Tweaks
-MD5sum: b37a61848af4257ab0cf5337c99ae983
-SHA1: 6d202ce59a2b54167d66aefabd295e48d1dc5da3
-SHA256: f9dc16cfa41dcd1d6e4b21186dcb1527058a90b06cb127d6abbab8a8555c9456
-Filename: ./debs/com.mortyick.respringlooper_1.0_iphoneos-arm.deb
-Description: Puts your device in a respring loop, do not use!
-Author: Mortyick
 Name: RespringLooper
+Description: Puts your device in a respring loop, do not use!
+Maintainer: Mortyick
+Author: Mortyick
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.1-1+debug
+Installed-Size: 72
+Size: 1802
+MD5sum: 35d8c8d9d8922de4a76af651fb7d80ce
+SHA1: 8ff7fd0d91401c730a760f95ede8323822ab4531
+SHA256: 78961faa41650abb705b08348320d5083f7abb00e51a2f4ac71f5d7857a3ce78
+Filename: ./debs/com.mortyick.respringlooper_1.1-1+debug_iphoneos-arm.deb
 
 Package: com.mortyick.respringlooper
 Version: 1.0
