@@ -27,3 +27,15 @@ Filename: ./debs/com.mortyick.respringlooper_1.0_iphoneos-arm64.deb
 Description: Puts your device in a respring loop, do not use!
 Author: Mortyick
 Name: RespringLooper
+
+Package: com.34306.banned
+Name: banned
+Description: Bans you from using Settings.
+Maintainer: 34306
+Author: 34306
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3-1+debug
+Installed-Size: 156
+Size: 5640
