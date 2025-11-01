@@ -39,3 +39,7 @@ Architecture: iphoneos-arm64
 Version: 0.0.3-1+debug
 Installed-Size: 156
 Size: 5640
+MD5sum: 0ae7673ed294ae06e6b8e208d5352671
+SHA1: 151a99eea289d24b08be4b7253a3797c4774b276
+SHA256: 1173fd7af2cf09b0c2321f97eeafb49fbf3c73e7d7863eab6d2eeeb4f6582d95
+Filename: ./debs/com.34306.banned.0.0.3-1+debug_iphoneos-arm64.deb
