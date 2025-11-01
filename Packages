@@ -2,7 +2,7 @@ Package: com.mortyick.respringlooper
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mortyick
-Installed-Size: 72
+Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
 Size: 1856
 Section: Tweaks
@@ -18,7 +18,7 @@ Package: com.mortyick.respringlooper
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Mortyick
-Installed-Size: 72
+Installed-Size: 272
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
 Size: 1912
 Section: Tweaks
