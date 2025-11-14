@@ -1,35 +1,3 @@
-Package: com.mortyick.respringlooper
-Name: RespringLooper
-Description: Puts your device in a respring loop, do not use!
-Maintainer: Mortyick
-Author: Mortyick
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm
-Version: 1.1-1+debug
-Installed-Size: 72
-Size: 1802
-MD5sum: 35d8c8d9d8922de4a76af651fb7d80ce
-SHA1: 8ff7fd0d91401c730a760f95ede8323822ab4531
-SHA256: 78961faa41650abb705b08348320d5083f7abb00e51a2f4ac71f5d7857a3ce78
-Filename: ./debs/com.mortyick.respringlooper_1.1-1+debug_iphoneos-arm.deb
-
-Package: com.mortyick.respringlooper
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Mortyick
-Installed-Size: 272
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Size: 1912
-Section: Tweaks
-MD5sum: b37a61848af4257ab0cf5337c99ae983
-SHA1: 6d202ce59a2b54167d66aefabd295e48d1dc5da3
-SHA256: f9dc16cfa41dcd1d6e4b21186dcb1527058a90b06cb127d6abbab8a8555c9456
-Filename: ./debs/com.mortyick.respringlooper_1.0_iphoneos-arm64.deb
-Description: Puts your device in a respring loop, do not use!
-Author: Mortyick
-Name: RespringLooper
-
 Package: com.34306.banned
 Name: banned
 Description: Bans you from using Settings.
@@ -45,3 +13,17 @@ MD5sum: 0ae7673ed294ae06e6b8e208d5352671
 SHA1: 151a99eea289d24b08be4b7253a3797c4774b276
 SHA256: 1173fd7af2cf09b0c2321f97eeafb49fbf3c73e7d7863eab6d2eeeb4f6582d95
 Filename: ./debs/com.34306.banned_0.0.3-1+debug_iphoneos-arm64.deb
+
+Package: lol.sep.turdusmerula
+Name: turdus merula
+Description: lol
+Maintainer: kok3shi
+Author: Clarity, kok3shidoll, Mineek
+Section: Development
+Depends: firmware (>= 14.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
+Architecture: iphoneos-arm
+Version: 1.1
+MD5sum: aecdd9b18cbd3d1a2d40cfe9e0875710
+SHA1: 8d51e39159149af9b58062d2592484d09814254c
+SHA256: 4d4bcc44010b3f25146bc71cba24cb05acd47b1a40e8a44a1c9dab3eb77f453a
+Filename: ./debs/lol.sep.turdusmerula_1.1_b0ea3ee7_iphoneos-arm.deb
