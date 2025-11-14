@@ -16,13 +16,15 @@ Filename: ./debs/com.34306.banned_0.0.3-1+debug_iphoneos-arm64.deb
 
 Package: lol.sep.turdusmerula
 Name: turdus merula
-Description: lol
+Version: 1.1
+Architecture: iphoneos-arm
+Description: meow
+Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
 Maintainer: kok3shi
 Author: Clarity, kok3shidoll, Mineek
 Section: Development
 Depends: firmware (>= 14.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
-Architecture: iphoneos-arm
-Version: 1.1
+Size: 1669124
 MD5sum: aecdd9b18cbd3d1a2d40cfe9e0875710
 SHA1: 8d51e39159149af9b58062d2592484d09814254c
 SHA256: 4d4bcc44010b3f25146bc71cba24cb05acd47b1a40e8a44a1c9dab3eb77f453a
