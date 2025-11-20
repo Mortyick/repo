@@ -55,7 +55,7 @@ Author: Kim Jong Cracks
 Section: Applications
 Pre-Depends: firmware (>= 10.0)
 Size: 101420
-MD5sum: 84a4df31b47859bd1d4059d7b1dd1534
-SHA1: a1496013fc39dd7fe8ddcf90c89b83caea84118c
-SHA256: 98d5150e31a604024a2dab96f9951c1436eb71b17cbbfad5af93ae783d87cb5e
+MD5sum: ae8154290648881f914a965370232b4e
+SHA1: b14c5dfdf196c0bd1c477e35dfa37e5f7bcfcd23
+SHA256: 75267cfeecb24887c3e6f2b9ba84e7a611cc37e9430ac3bcb5fe3c6e557d11d0
 Filename: ./debs/com.kjc.loader_1.0_iphoneos-arm.deb
