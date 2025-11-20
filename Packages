@@ -59,3 +59,31 @@ MD5sum: ae8154290648881f914a965370232b4e
 SHA1: b14c5dfdf196c0bd1c477e35dfa37e5f7bcfcd23
 SHA256: 75267cfeecb24887c3e6f2b9ba84e7a611cc37e9430ac3bcb5fe3c6e557d11d0
 Filename: ./debs/com.kjc.loader_1.0_iphoneos-arm.deb
+
+Package: com.mortyick.metanavigator
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: MetaNavigator
+Description: The Metaverse Navigator icon from Persona 5, as a respring theme?
+Filename: ./debs/com.mortyick.metanavigator_1.0_iphoneos-arm64.deb
+Size: 91172
+MD5sum: 70ad7b2994f071f60346c1e57f98a6f9
+SHA1: 00451fb3ebc5d912f0cf6fd47c98af94e177f9bd
+SHA256: 0af444edddd682e49a562d8221326c73714750fd71e6f1674c3facd3e9483bfb
+
+Package: com.mortyick.metanavigator
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm
+Name: MetaNavigator
+Description: The Metaverse Navigator icon from Persona 5, as a respring theme?
+Filename: ./debs/com.mortyick.metanavigator_1.0_iphoneos-arm.deb
+Size: 91152
+MD5sum: a1e797748edcb87a2d1807d4d9137adf
+SHA1: 25351bc03b6e52f0efcd4e9d9e2a86d128acf26b
+SHA256: 1e3a8f8b35ea738578e63417bb6e495840cc6ddd6160739e968b8ce683b34fdf
