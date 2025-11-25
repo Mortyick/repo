@@ -134,3 +134,18 @@ MD5sum: 29ffe2b2875b606b1dbae11bde5f0e09
 SHA1: c7b13f634f1cd60f45d71edbe7a72471f35df02a
 SHA256: a4581cb8676bf33829793c3a8ff683c218e5fa7081da42b9bc53f4b7e2edcf98
 Filename: ./debs/com.miro.liblottie_1.0.2_iphoneos-arm64.deb
+
+Package: com.sourceloc.iconexporter
+Name: IconExporter
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Exports your icons to a zip file!
+Maintainer: sourcelocation
+Author: sourcelocation
+Section: Applications
+Depends: firmware (>= 14.0)
+Size: 124968
+MD5sum: b007d97044fb139ee66af76ffb39ae56
+SHA1: 1d5cb8eb250a889c6eccdf168c07509dd5f26f25
+SHA256: d4bc048e8b4518b51fece1d339fb50a41b6dc80aa5fc9aa4dd0c9736ad59a70f
+Filename: ./debs/com.sourceloc.iconexporter_1.0_iphoneos-arm.deb
