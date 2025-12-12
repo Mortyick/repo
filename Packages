@@ -164,3 +164,18 @@ Size: 639372
 MD5sum: cb6dc0c1a839ac77f688ed08eeb98699
 SHA1: 6f3db26a1395a052e453c19faccec43c924ffa43
 SHA256: 61d39972cf5118dc2a4d852c01dbe7230e227457499020b7c9f83094dcd7bab5
+
+Package: com.mortyick.ghibli
+Version: 1.0
+Section: Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Depends: firmware (>= 16.0)
+Name: Ghibli
+Description: Stolen Ghibli theme.
+Filename: ./debs/com.mortyick.ghibli_1.0_iphoneos-arm64.deb
+Size: 639372
+MD5sum: 20de3c75d69560a6b4199ae9dda52b77
+SHA1: 6b3eba274cad871e175f3a646e51822ae2609d83
+SHA256: 63792ace9b36a2f3e61e102a3bf298a1b4fdce3d5a81685874a4645a8466c694
