@@ -175,7 +175,7 @@ Depends: firmware (>= 16.0)
 Name: Ghibli
 Description: Stolen Ghibli theme.
 Filename: ./debs/com.mortyick.ghibli_1.0_iphoneos-arm64.deb
-Size: 639372
+Size: 1497012
 MD5sum: 20de3c75d69560a6b4199ae9dda52b77
 SHA1: 6b3eba274cad871e175f3a646e51822ae2609d83
 SHA256: 63792ace9b36a2f3e61e102a3bf298a1b4fdce3d5a81685874a4645a8466c694
