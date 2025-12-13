@@ -209,3 +209,59 @@ Size: 751668
 MD5sum: 0cdef923262575903f43304d0a99b963
 SHA1: 4463dc5eae5d7eff40ecc343655f8a9d42bcfdeb
 SHA256: 0f4801fc1d244ec7728e4d8a8cfe6645314bdc0c7c508bb78e6209531368288f
+
+Package: com.mortyick.kuromi
+Version: 1.0
+Section: Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm
+Name: Kuromi
+Description: Stolen Kuromi theme.
+Filename: ./debs/com.mortyick.kuromi_1.0_iphoneos-arm.deb
+Size: 751560
+MD5sum: f4226a7c9ade5b6d4749e015e1109cf5
+SHA1: 9c6e6c969d4b7fc5646f4d274d780985453d5ce0
+SHA256: 427c12a813b366854e71e5948f5c17449956453b15782af37dcff85b26804600
+
+Package: com.mortyick.melody
+Version: 1.0
+Section: Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm
+Name: Melody
+Description: Another stolen pink theme.
+Filename: ./debs/com.mortyick.melody_1.0_iphoneos-arm.deb
+Size: 131478
+MD5sum: 06bc827c91e70d39572fbdf6de48f8ba
+SHA1: acc226efce040b518180eb844e3f1915ebf4d686
+SHA256: 5251168e8620160a6d6a2aa66c962ebf366d88a9c32320cbc45f99edf4af0b62
+
+Package: com.mortyick.ghibli
+Version: 1.0
+Section: Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm
+Name: Ghibli
+Description: Stolen Ghibli theme.
+Filename: ./debs/com.mortyick.ghibli_1.0_iphoneos-arm.deb
+Size: 1497020
+MD5sum: 0ba11b6b45a86372aa1ab4852a3aaa3c
+SHA1: 6125468e2505ebcd4c9b5a7a3ba95ef405a40934
+SHA256: cba8bc53336720a2b10a75ae69770c490e8e521efdb8c25850b4927c3d07473b
+
+Package: com.mortyick.blackpink
+Version: 1.0
+Section: Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm
+Name: Blackpink
+Description: Stolen Blackpink theme.
+Filename: ./debs/com.mortyick.blackpink_1.0_iphoneos-arm.deb
+Size: 639348
+MD5sum: d8821ba8c01454b00eabfb1119fe4db6
+SHA1: 9aa6be8da662d23ed985741e6d33ee54ef036c25
+SHA256: a0785581a71f578c97a585608e6e7f484215b20b4bcf244183134ac516c8a85d
