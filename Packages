@@ -205,7 +205,7 @@ Depends: firmware (>= 16.0)
 Name: Kuromi
 Description: Stolen Kuromi theme.
 Filename: ./debs/com.mortyick.kuromi_1.0_iphoneos-arm64.deb
-Size: wait
-MD5sum: for
-SHA1: it
-SHA256: lol
+Size: 751668
+MD5sum: 0cdef923262575903f43304d0a99b963
+SHA1: 4463dc5eae5d7eff40ecc343655f8a9d42bcfdeb
+SHA256: 0f4801fc1d244ec7728e4d8a8cfe6645314bdc0c7c508bb78e6209531368288f
