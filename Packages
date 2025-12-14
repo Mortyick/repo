@@ -265,3 +265,18 @@ Size: 639348
 MD5sum: d8821ba8c01454b00eabfb1119fe4db6
 SHA1: 9aa6be8da662d23ed985741e6d33ee54ef036c25
 SHA256: a0785581a71f578c97a585608e6e7f484215b20b4bcf244183134ac516c8a85d
+
+Package: com.mortyick.gaecord
+Architecture: iphoneos-arm
+Name: Gaecord
+Version: 1.0
+Description: Gaegu but only for Discord lmao
+Section: Fonts
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.gaecord_1.0_iphoneos-arm.deb
+Size: 855320
+MD5sum: 18567d7627b636a4b47ef217db7abdb7
+SHA1: aa189b2c952cd703e7309499aad86e44688a831a
+SHA256: 0a395b33f9dcb23db966aba00343b3b4cc0c86b6c404804fa48c411db78fc4a3
