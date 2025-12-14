@@ -280,3 +280,18 @@ Size: 855316
 MD5sum: 47c9c9fe6f0d0bdbd70a69c90d5da1a8
 SHA1: 98dbec55ab2c0ce2abdf6456e0f3e0320f1a9e8d
 SHA256: 7c9d06a45d537b0687628d4ff954049de522c24decb109dff166d5cd6c4b649e
+
+Package: com.mortyick.gaecord
+Architecture: iphoneos-arm64
+Name: Gaecord
+Version: 1.0
+Description: Half-assed port of Gaegu
+Section: Fonts
+Depends: firmware (>=16.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.gaecord_1.0_iphoneos-arm64.deb
+Size: 855244
+MD5sum: a62b22f5223eddc75428988b605d7b95
+SHA1: 6d3e688707297e272fe5f65549aedf9e2d8456b3
+SHA256: 16c69357e1017607f2bed8833a2ab1fd4e6e4b47c7c677c2122b3f3769b61d0e
