@@ -295,3 +295,18 @@ Size: 855244
 MD5sum: a62b22f5223eddc75428988b605d7b95
 SHA1: 6d3e688707297e272fe5f65549aedf9e2d8456b3
 SHA256: 16c69357e1017607f2bed8833a2ab1fd4e6e4b47c7c677c2122b3f3769b61d0e
+
+Package: com.mortyick.wiivamp
+Name: Wiivamp
+Depends: mobilesubstrate, firmware (>= 11), com.spark.libsparkapplist, ws.hbang.common (>= 1.14)
+Description: Wiivamp but with DSi/3DS songs
+Maintainer: Mortyick
+Author: Mortyick
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 4.1-1+debug
+Filename: ./debs/com.mortyick.wiivamp_4.1+-1+debug_iphoneos-arm.deb
+Size: 25043774
+MD5sum: b150803ca3b349df82405b1f1cebb1e5
+SHA1: 78c3b2ca3896b2413e0aa996b6fa28894e144227
+SHA256: f3a7d4a36c073800f1bc8a6a43e11ede5748d0a40dbb49f652ee6a7101e13a2c
