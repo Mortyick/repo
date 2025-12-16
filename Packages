@@ -305,7 +305,7 @@ Author: Mortyick
 Section: Tweaks
 Architecture: iphoneos-arm
 Version: 4.1-1+debug
-Filename: ./debs/com.mortyick.wiivamp_4.1+-1+debug_iphoneos-arm.deb
+Filename: ./debs/com.mortyick.wiivamp_4.1-1+debug_iphoneos-arm.deb
 Size: 25043774
 MD5sum: b150803ca3b349df82405b1f1cebb1e5
 SHA1: 78c3b2ca3896b2413e0aa996b6fa28894e144227
