@@ -338,3 +338,18 @@ Size: 10974176
 MD5sum: ec2f3516075809315bbae064d377210e
 SHA1: 7c751100f34af05b32a0c71e286f795e4a2b682b
 SHA256: 15c4a51930b1c7ff2554e3c288f3060579b841c68f10cc42d7044942f2e62dc4
+
+Package: com.spark.snowboard.respringextension
+Name: SnowBoard Respring Extension
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Description: Respring icon extension for SnowBoard
+Maintainer: Spark
+Author: Spark
+Section: SnowBoard Extensions
+Architecture: iphoneos-arm64
+Version: 1.0.8
+Filename: ./debs/1.0.8.deb
+Size: 41888
+MD5sum: dee9ad7c9d2de9f8073e3e54c88a5dc7
+SHA1: 9cf63a25288b737186543122d441d46ae79be332
+SHA256: e3642247bd48a0a081b5b1af88e5cb0385eec4f060574f0f47edc0d57819cff2
