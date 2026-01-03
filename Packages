@@ -353,3 +353,33 @@ Size: 41888
 MD5sum: dee9ad7c9d2de9f8073e3e54c88a5dc7
 SHA1: 9cf63a25288b737186543122d441d46ae79be332
 SHA256: e3642247bd48a0a081b5b1af88e5cb0385eec4f060574f0f47edc0d57819cff2
+
+Package: com.mortyick.pixelify
+Architecture: iphoneos-arm64
+Name: Pixelify
+Version: 1.0
+Description: Crappy port of Pixelify
+Section: Fonts
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.pixelify_1.0_iphoneos-arm64.deb
+Size: 625608
+MD5sum: 09bb829fa6abdd4804d198886d854a4a
+SHA1: 9faaf562a601190a4cdf9c5a9394a9be27a2e815
+SHA256: 04e70a1bfacf0d48539f53d1a268878ee5982288698f3d2a0f4c42c0f8889034
+
+Package: com.mortyick.estiebestie
+Architecture: iphoneos-arm64
+Name: EstieBestie
+Version: 1.0
+Description: Crappy port of Estie Bestie
+Section: Fonts
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.estiebestie_1.0_iphoneos-arm64.deb
+Size: 624324
+MD5sum: 5463725f6f98193700696cedb5eb1968
+SHA1: 0d4b8b4aa58baa337d4ae72bd4ba1050684bee6e
+SHA256: 16f5f73b14508d8d7def0c87e3db52c035c62d459c24207f36808c3c08f87050
