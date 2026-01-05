@@ -385,3 +385,31 @@ Size: 624324
 MD5sum: 5463725f6f98193700696cedb5eb1968
 SHA1: 0d4b8b4aa58baa337d4ae72bd4ba1050684bee6e
 SHA256: 16f5f73b14508d8d7def0c87e3db52c035c62d459c24207f36808c3c08f87050
+
+Package: com.mortyick.anya
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm
+Name: Anya
+Description: An Anya Respring Theme.
+Filename: ./debs/com.mortyick.anya_1.0_iphoneos-arm.deb
+Size: 199616
+MD5sum: 7fa88b555d870921993045c94307b8ec
+SHA1: b91d805c41e34107cb3dd9344ab9cc41c78e9e59
+SHA256: 0e1ff1ee1ccda09f2578e8ea9894387f9a26cf9524f3ce009ccbee8a23a1d48e
+
+Package: com.mortyick.anya
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Anya
+Description: An Anya Respring Theme.
+Filename: ./debs/com.mortyick.anya_1.0_iphoneos-arm64.deb
+Size: 199672
+MD5sum: e29ff615edfe6181597a1ef08a4a764f
+SHA1: c14faeee7b7d3ce9bcad30945c83c66dd9250323
+SHA256: c4645a92985b538b6542107d098c737c124d91c52095eaefef111de95d55b9a4
