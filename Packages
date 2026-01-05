@@ -413,3 +413,18 @@ Size: 199672
 MD5sum: e29ff615edfe6181597a1ef08a4a764f
 SHA1: c14faeee7b7d3ce9bcad30945c83c66dd9250323
 SHA256: c4645a92985b538b6542107d098c737c124d91c52095eaefef111de95d55b9a4
+
+Package: com.mortyick.chiru
+Architecture: iphoneos-arm64
+Name: Chiru
+Version: 1.0
+Description: Crappy port of Chiru
+Section: Fonts
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.chiru_1.0_iphoneos-arm64.deb
+Size: 1240048
+MD5sum: 70d694638c4744ae9e8115ca673a511d
+SHA1: 06744d6532a63952cd51c31c04ab8b868c885c67
+SHA256: f741b3e6eac655081bc84a2b0fe763187c9e329f0263ba7a22719f7def7999fb
