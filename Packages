@@ -428,3 +428,18 @@ Size: 1240048
 MD5sum: 70d694638c4744ae9e8115ca673a511d
 SHA1: 06744d6532a63952cd51c31c04ab8b868c885c67
 SHA256: f741b3e6eac655081bc84a2b0fe763187c9e329f0263ba7a22719f7def7999fb
+
+Package: com.mortyick.syongsyong
+Architecture: iphoneos-arm64
+Name: Syongsyong
+Version: 1.0
+Description: Crappy port of Syongsyong
+Section: Fonts
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.syongsyong_1.0_iphoneos-arm64.deb
+Size: 946368
+MD5sum: 512def73d12ad47871db1d0551cc2b8e
+SHA1: 5e4df716ef85572929e5ac45a0c1d6fc42ec1d6d
+SHA256: 4f4c48fad7ad389fe75c56b2ba86aaf731665099b6d1bdd0b96da03cc4c32a7e
