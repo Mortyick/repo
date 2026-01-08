@@ -443,3 +443,18 @@ Size: 946368
 MD5sum: 512def73d12ad47871db1d0551cc2b8e
 SHA1: 5e4df716ef85572929e5ac45a0c1d6fc42ec1d6d
 SHA256: 4f4c48fad7ad389fe75c56b2ba86aaf731665099b6d1bdd0b96da03cc4c32a7e
+
+Package: com.mortyick.cousagi
+Architecture: iphoneos-arm64
+Name: Cousagi
+Version: 1.0
+Description: Crappy port of Cousagi
+Section: Fonts
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.cousagi_1.0_iphoneos-arm64.deb
+Size: 693196
+MD5sum: 6318eb0356a68745f1dba2ce07ef2f34
+SHA1: 672a40040cde3f808a1e99280c37cbe23467bb41
+SHA256: 56b494bca670ef4dfe1018f18a21b641a6abf3db04228370d6bdfd0893dec2dc
