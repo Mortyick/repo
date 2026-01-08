@@ -472,3 +472,17 @@ Size: 179508
 MD5sum: 8fef6df8b459fa021ad77f1f1ecaa015
 SHA1: 36619de882f718ad438a6287fdd1c64338159dc2
 SHA256: 57706b1ef10febd87164582bd7f50b160da398bdf33c6f8c398d0c9691b0a67c
+
+Package: com.mortyick.chibi
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Chibi
+Description: A Chibi Respring Theme?
+Filename: ./debs/com.mortyick.chibi_1.0_iphoneos-arm64.deb
+Size: 1446236
+MD5sum: d565b070877045c37b1194d4751baf9e
+SHA1: 26736d071779f8c0f9a352fd74384eb941589668
+SHA256: 73073824f5b1c42212e5085f44390fa590fbdf6693f8b6988387523531d11098
