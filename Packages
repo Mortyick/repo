@@ -458,3 +458,17 @@ Size: 693196
 MD5sum: 6318eb0356a68745f1dba2ce07ef2f34
 SHA1: 672a40040cde3f808a1e99280c37cbe23467bb41
 SHA256: 56b494bca670ef4dfe1018f18a21b641a6abf3db04228370d6bdfd0893dec2dc
+
+Package: com.mortyick.megumin
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Megumin
+Description: A Megumin Respring Theme.
+Filename: ./debs/com.mortyick.megumin_1.0_iphoneos-arm.deb
+Size: 179508
+MD5sum: 8fef6df8b459fa021ad77f1f1ecaa015
+SHA1: 36619de882f718ad438a6287fdd1c64338159dc2
+SHA256: 57706b1ef10febd87164582bd7f50b160da398bdf33c6f8c398d0c9691b0a67c
