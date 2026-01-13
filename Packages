@@ -105,35 +105,33 @@ Filename: ./debs/com.AppInstalleriOS.Untether_1.0_iphoneos-arm.deb
 
 Package: dr.erast.violet
 Name: Violet
-Version: 1.1.1
+Version: 1.2
 Architecture: iphoneos-arm64
-Description: The maid for your 📱 
+Description: The maid for your iPhone.
 Maintainer: Erast <applewormdev@gmail.com>
 Author: Erast <applewormdev@gmail.com>
 Section: Tweaks
 Depends: firmware (>= 15.0), com.mrgcgamer.libgcuniversal, com.miro.liblottie
-Size: 8147208
-Icon: file:///var/jb/Library/PreferenceBundles/VioletPreferences.bundle/icon_large.png
-MD5sum: 29ffe2b2875b606b1dbae11bde5f0e09
-SHA1: c7b13f634f1cd60f45d71edbe7a72471f35df02a
-SHA256: a4581cb8676bf33829793c3a8ff683c218e5fa7081da42b9bc53f4b7e2edcf98
-Filename: ./debs/dr.erast.violet_1.1.1_iphoneos-arm64.deb
+Size: 8147036
+MD5sum: 728ca7f3971f82dc48e952bd7c75036e
+SHA1: 9caa1b3bac6b758a74fc560371471c7be4ba4c7c
+SHA256: d0837ec18692cf8f6c37608657917be671f69ce23788e4eb18905b5e6540dc8b
+Filename: ./debs/dr.erast.violet_1.2_iphoneos-arm64.deb
 
 Package: com.miro.liblottie
 Name: libLottie
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm64
 Description: Lottie animations library. 
 Maintainer: MiRO <tweaks_support@miro92.com>
 Author: MiRO <tweaks_support@miro92.com>
 Section: System
 Depends: firmware (>= 15.0)
-Size: 8147208
-Tag: role::developer, compatible_min::ios15, compatible_max::ios16
-MD5sum: 29ffe2b2875b606b1dbae11bde5f0e09
-SHA1: c7b13f634f1cd60f45d71edbe7a72471f35df02a
-SHA256: a4581cb8676bf33829793c3a8ff683c218e5fa7081da42b9bc53f4b7e2edcf98
-Filename: ./debs/com.miro.liblottie_1.0.2_iphoneos-arm64.deb
+Size: 235540
+MD5sum: 2cc08bfafd3a699d4ea342a820d8cd6c
+SHA1: 488b29114ba7bfbb10f1bc59b35abfa3c492b2ea
+SHA256: afe5c121e7cb85d7cd2986073e8e9c84a7afa9189f1105e9e1dc77d339ee5451
+Filename: ./debs/com.miro.liblottie_1.1_iphoneos-arm64.deb
 
 Package: com.sourceloc.iconexporter
 Name: IconExporter
