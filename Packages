@@ -339,20 +339,20 @@ MD5sum: ec2f3516075809315bbae064d377210e
 SHA1: 7c751100f34af05b32a0c71e286f795e4a2b682b
 SHA256: 15c4a51930b1c7ff2554e3c288f3060579b841c68f10cc42d7044942f2e62dc4
 
-Package: com.spark.snowboard.respringextension
+Package: mortyick.snowboard.respringextension
 Name: SnowBoard Respring Extension
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Description: Respring icon extension for SnowBoard
-Maintainer: Spark
-Author: Spark
+Maintainer: Mortyick
+Author: Mortyick
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm64
-Version: 1.0.9
-Filename: ./debs/1.0.9.deb
-Size: 41100
-MD5sum: f5c3a3c57ee8bf805e014418a0a864e2
-SHA1: c56c3328254fc1a4ddd4f94685532e17258afd6f
-SHA256: e59ea0ea00de2472a411dc3efa0ff20943420733ec61c2abf43fa127d7d0d79a
+Version: 1.1
+Filename: ./debs/mortyick.snowboard.respringextension_1.1_iphoneos-arm64.deb
+Size: 22420
+MD5sum: 81ed57adedf464b68638563b580ac882
+SHA1: bcf0505e8c2afd07b45e70521ec26b67f65bbc04
+SHA256: 38b100322a68184a9c2da59cffd89e0e63aae9d769d92a73b5ff024a002f25cf
 
 Package: com.mortyick.pixelify
 Architecture: iphoneos-arm64
