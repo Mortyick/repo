@@ -347,12 +347,12 @@ Maintainer: Spark
 Author: Spark
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm64
-Version: 1.0.8
-Filename: ./debs/1.0.8.deb
-Size: 41888
-MD5sum: dee9ad7c9d2de9f8073e3e54c88a5dc7
-SHA1: 9cf63a25288b737186543122d441d46ae79be332
-SHA256: e3642247bd48a0a081b5b1af88e5cb0385eec4f060574f0f47edc0d57819cff2
+Version: 1.0.9
+Filename: ./debs/1.0.9.deb
+Size: 41100
+MD5sum: f5c3a3c57ee8bf805e014418a0a864e2
+SHA1: c56c3328254fc1a4ddd4f94685532e17258afd6f
+SHA256: e59ea0ea00de2472a411dc3efa0ff20943420733ec61c2abf43fa127d7d0d79a
 
 Package: com.mortyick.pixelify
 Architecture: iphoneos-arm64
