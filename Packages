@@ -484,3 +484,18 @@ Size: 1446236
 MD5sum: d565b070877045c37b1194d4751baf9e
 SHA1: 26736d071779f8c0f9a352fd74384eb941589668
 SHA256: 73073824f5b1c42212e5085f44390fa590fbdf6693f8b6988387523531d11098
+
+Package: com.jacc.wiivamp
+Name: Wiivamp
+Depends: mobilesubstrate, firmware (>=15.0), com.spark.libsparkapplist, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Architecture: iphoneos-arm64
+Description: Play your favorite Wii songs inside any of your favorite apps!
+Maintainer: jacc
+Author: jacc
+Section: Tweaks
+Version: 4.0
+Filename: ./debs/com.jacc.wiivamp_4.0_iphoneos-arm64.deb
+MD5sum: 4be5decd155259dca5bcd10e16aeb8f9
+SHA1: b25b380b3fe766c0b464170f8cf28e9afeee0a0a
+SHA256: df6241fd2732a490ccb0d3be21933d1142ea9e223c87517b7b8f58c56dc268eb
+
