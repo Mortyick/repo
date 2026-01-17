@@ -499,3 +499,16 @@ MD5sum: 4be5decd155259dca5bcd10e16aeb8f9
 SHA1: b25b380b3fe766c0b464170f8cf28e9afeee0a0a
 SHA256: df6241fd2732a490ccb0d3be21933d1142ea9e223c87517b7b8f58c56dc268eb
 
+Package: com.ali.waktos
+Name: Waktos
+Architecture: iphoneos-arm64
+Description: Android Lockscreen
+Maintainer: alimaulana
+Author: alimaulana
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=15.0), com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Version: 1.0.1
+Filename: ./debs/com.ali.waktos_1.0.1_iphoneos-arm64.deb
+MD5sum: 6f9f97030504f87e27978a6a78b72bb3
+SHA1: 5f6fd1724b4588b27622b79d2365b24f65b5983f
+SHA256: 74112ce292e7fb353627f4ddd4b643f5cef5ff6a76379954682e38931ecc69c3
