@@ -494,6 +494,7 @@ Maintainer: jacc
 Author: jacc
 Section: Tweaks
 Version: 4.0
+Size: 25749492
 Filename: ./debs/com.jacc.wiivamp_4.0_iphoneos-arm64.deb
 MD5sum: 4be5decd155259dca5bcd10e16aeb8f9
 SHA1: b25b380b3fe766c0b464170f8cf28e9afeee0a0a
@@ -508,6 +509,7 @@ Author: alimaulana
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>=15.0), com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Version: 1.0.1
+Size: 148084
 Filename: ./debs/com.ali.waktos_1.0.1_iphoneos-arm64.deb
 MD5sum: 6f9f97030504f87e27978a6a78b72bb3
 SHA1: 5f6fd1724b4588b27622b79d2365b24f65b5983f
@@ -522,6 +524,7 @@ Author: Samg_is_a_Ninja
 Section: Tweaks
 Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.14), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Version: 1.2
+Size: 49464
 Filename: ./debs/com.samgisaninja.snell_1.1_iphoneos-arm64.deb
 MD5sum: 17f0c6d8d791319e2f15e88d2aab65a1
 SHA1: eeae658dc9369e1d9d6c4b19c8b15bc235474732
@@ -536,7 +539,38 @@ Author: CreatureSurvive
 Section: Tweaks
 Depends: firmware (>=15.0), applist, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Version: 1.0
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64
+Size: 40212
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
 MD5sum: 656d392957254c319b76b8fbb005500a
 SHA1: 9e85c0b5c06331b9d98ea98c7bee6ea10c274bf6
 SHA256: 9a0c8e18671c5fa8d6a693e2ec827359432e52c59a91eadf2f0dee3c564af838
+
+Package: com.sourceloc.iconexporter
+Name: IconExporter
+Architecture: iphoneos-arm64
+Description: Exports your icons to a zip file!
+Maintainer: sourcelocation
+Author: sourcelocation
+Section: Applications
+Depends: firmware (>=15.0)
+Version: 1.0
+Size: 125172
+Filename: ./debs/com.sourceloc.iconexporter_1.0_iphoneos-arm64.deb
+MD5sum: 1a5a4d990d43dbdebf6c425cebf587d0
+SHA1: 93d62bbc1925810fed55445bc0870ae8787d9b2e
+SHA256: 90a29062355a433af05994a44141d040556807c0b9d8f300ef0b5dae4d2b1d34
+
+Package: me.nepeta.owo
+Name: OwO
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=15.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Architecture: iphoneos-arm64
+Description: OwO what's this!?
+Maintainer: Nepeta
+Author: Nepeta
+Section: Tweaks
+Version: 0.2.3
+Size: 17696
+Filename: ./debs/me.nepeta.owo_0.2.3_iphoneos-arm64.deb
+MD5sum: 91df9342d3b9d1e893293858db54913f
+SHA1: 2e974089ce37addf500184568c0a56bc73f6a9c9
+SHA256: f4529e28a6aa93f6ba4e44d8eb20c66fdb4e48360e26614ebb51c6178584ce29
