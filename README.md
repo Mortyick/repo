@@ -2,8 +2,4 @@
 
 i wouldnt use this if i were you
 
-# what i have
-- fonts (or just gaegu since the rest suck)
-- themes (not even that good)
-- respring themes
-- other shit
+i can't promise that everything here will work properly (or at all), your mileage may vary.
