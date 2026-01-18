@@ -512,3 +512,31 @@ Filename: ./debs/com.ali.waktos_1.0.1_iphoneos-arm64.deb
 MD5sum: 6f9f97030504f87e27978a6a78b72bb3
 SHA1: 5f6fd1724b4588b27622b79d2365b24f65b5983f
 SHA256: 74112ce292e7fb353627f4ddd4b643f5cef5ff6a76379954682e38931ecc69c3
+
+Package: com.samgisaninja.snell
+Name: snell
+Architecture: iphoneos-arm64
+Description: Alert customization to the max
+Maintainer: Samg_is_a_Ninja
+Author: Samg_is_a_Ninja
+Section: Tweaks
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.14), preferenceloader, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Version: 1.2
+Filename: ./debs/com.samgisaninja.snell_1.1_iphoneos-arm64.deb
+MD5sum: 17f0c6d8d791319e2f15e88d2aab65a1
+SHA1: eeae658dc9369e1d9d6c4b19c8b15bc235474732
+SHA256: a43086c71cff244bd26a5b905a1eb5f1e116aa72cda6b1e516196636daefa6cd
+
+Package: com.creaturesurvive.libcscolorpicker
+Name: libCSColorPicker
+Architecture: iphoneos-arm64
+Description: A minimal color picker library for developers
+Maintainer: Mortyick
+Author: CreatureSurvive
+Section: Tweaks
+Depends: firmware (>=15.0), applist, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Version: 1.0
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64
+MD5sum: 656d392957254c319b76b8fbb005500a
+SHA1: 9e85c0b5c06331b9d98ea98c7bee6ea10c274bf6
+SHA256: 9a0c8e18671c5fa8d6a693e2ec827359432e52c59a91eadf2f0dee3c564af838
