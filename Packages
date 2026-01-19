@@ -606,3 +606,33 @@ Filename: ./debs/com.mortyick.p5_1.2_iphoneos-arm64.deb
 MD5sum: f5c8359f1e70b43a8e6bcf5ab2c9852e
 SHA1: 130422cc385edd3f3cdebb7afb283b3a94782e50
 SHA256: ea1b14090b0e21883d66d0e6661ba978e5b2146f91f316d4e31b30485a4946ce
+
+Package: com.evynw.keypadpixeled3x
+Name: Pixeled (Keypad for 3x)
+Description: Pixeled font on passcode keypad
+Section: Other
+Depends: firmware (>=16.0)
+Architecture: iphoneos-arm64
+Author: Evelyn
+Maintainer: Evelyn
+Version: 1.0
+Size: 30224
+Filename: ./debs/com.evynw.keypadpixeled3x_1.0_iphoneos-arm64.deb
+MD5sum: d99b5d7dc921e829b8f1b8fe1cbfd1dd
+SHA1: 293e330ccbc81dc470b3b1a3f0595fb9730f6985
+SHA256: 24aa36bb1411fa55c00332be64d3bb7655ac602937f1c98b1bdbb84607f74d8e
+
+Package: com.evynw.keypaddigital3x
+Name: Digital (Keypad for 3x)
+Description: Digital font on passcode keypad
+Section: Other
+Depends: firmware (>=16.0)
+Architecture: iphoneos-arm64
+Author: Evelyn
+Maintainer: Evelyn
+Version: 1.0
+Size: 30948
+Filename: ./debs/com.evynw.keypaddigital3x_1.0_iphoneos-arm64.deb
+MD5sum: a9cc69b87c8380d6742c2e73b0de472c
+SHA1: a916f9a75c137fe277724679dc01674bbdda31ea
+SHA256: 4a09fdc771c740e6b4652d9e4a1bffa821571edf7399f89310605db6dea1c132
