@@ -636,3 +636,33 @@ Filename: ./debs/com.evynw.keypaddigital3x_1.0_iphoneos-arm64.deb
 MD5sum: a9cc69b87c8380d6742c2e73b0de472c
 SHA1: a916f9a75c137fe277724679dc01674bbdda31ea
 SHA256: 4a09fdc771c740e6b4652d9e4a1bffa821571edf7399f89310605db6dea1c132
+
+Package: com.mortyick.onyx
+Name: Onyx
+Description Onyx for Laetus
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 6135248
+Filename: ./debs/com.mortyick.onyx_1.0_iphoneos-arm64.deb
+MD5sum: 538d7f8f51e11738f12ade6d2640ad39
+SHA1: 6d7c1553572ac6390141ded3a3763bda08ef9618
+SHA256: ee89279f52a7d1963efebc47fd21f9b188782a675abf0d1d93ac901811c53128
+
+Package: com.mortyick.bebopkeys
+Name: BebopKeys
+Architecture: iphoneos-arm64
+Description: Bebop Keys for Laetus
+Version: 1.0
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.bebopkeys_1.0_iphoneos-arm64.deb
+Size: 149752
+MD5sum: de55868e279234e8a5b3debe0e574348
+SHA1: 17cfad13864b4add6d06fc2b8483d03453be179f
+SHA256: 7a5e4ab68ef293e6fe6c2076acccee420ef22ec5bf06a5633fdbffbae294af37
