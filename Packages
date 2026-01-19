@@ -639,7 +639,7 @@ SHA256: 4a09fdc771c740e6b4652d9e4a1bffa821571edf7399f89310605db6dea1c132
 
 Package: com.mortyick.onyx
 Name: Onyx
-Description Onyx for Laetus
+Description: Onyx for Laetus
 Section: Laetus Themes
 Depends: firmware (>=15.0), com.spark.laetus
 Architecture: iphoneos-arm64
