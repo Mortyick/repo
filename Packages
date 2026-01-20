@@ -645,12 +645,12 @@ Depends: firmware (>=15.0), com.spark.laetus
 Architecture: iphoneos-arm64
 Author: Mortyick
 Maintainer: Mortyick
-Version: 1.0
-Size: 6135248
-Filename: ./debs/com.mortyick.onyx_1.0_iphoneos-arm64.deb
-MD5sum: 538d7f8f51e11738f12ade6d2640ad39
-SHA1: 6d7c1553572ac6390141ded3a3763bda08ef9618
-SHA256: ee89279f52a7d1963efebc47fd21f9b188782a675abf0d1d93ac901811c53128
+Version: 1.1
+Size: 6135000
+Filename: ./debs/com.mortyick.onyx_1.1_iphoneos-arm64.deb
+MD5sum: ef5b57a5db6db874faca75c7c7cf9114
+SHA1: 99ad92db4faf63cfda0267628ccc56ba56d92eb6
+SHA256: b364136dbbf7b286abacb83d0a219adc23a6a424fbb2584e9d028f13aff2980f
 
 Package: com.mortyick.bebopkeys
 Name: BebopKeys
@@ -690,9 +690,9 @@ Depends: firmware (>=14.0), com.spark.laetus
 Architecture: iphoneos-arm
 Author: Mortyick
 Maintainer: Mortyick
-Version: 1.0
-Size: 6135244
-Filename: ./debs/com.mortyick.onyx_1.0_iphoneos-arm.deb
-MD5sum: 55c6da7eee96cc7b501e628dcadd6fde
-SHA1: fd02168c765782ae981f98ea8eff01ec6db37aa7
-SHA256: 6887629017e76dada1e00261cee2282db178d1735cb23caee325ef133c8e6f35
+Version: 1.1
+Size: 6134984
+Filename: ./debs/com.mortyick.onyx_1.1_iphoneos-arm.deb
+MD5sum: f84bba3ffe69d587f40c174093d98457
+SHA1: 588130d0b015cc8414c87aa2a5224c20eb43d8d4
+SHA256: 9d4e45c51e7984ad3a3b0a9e6155be7a2f48fd0ac320f165a88fb8b84e008c4e
