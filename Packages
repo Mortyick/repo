@@ -264,36 +264,36 @@ MD5sum: d8821ba8c01454b00eabfb1119fe4db6
 SHA1: 9aa6be8da662d23ed985741e6d33ee54ef036c25
 SHA256: a0785581a71f578c97a585608e6e7f484215b20b4bcf244183134ac516c8a85d
 
-Package: com.mortyick.gaecord
+Package: com.mortyick.gaegu
 Architecture: iphoneos-arm
-Name: Gaecord
-Version: 1.1
+Name: Gaegu
+Version: 1.2
 Description: Half-assed port of Gaegu
 Section: Fonts
 Depends: firmware (>=14.0)
 Author: Mortyick
 Maintainer: Mortyick
-Filename: ./debs/com.mortyick.gaecord_1.1_iphoneos-arm.deb
-Size: 855316
-MD5sum: 47c9c9fe6f0d0bdbd70a69c90d5da1a8
-SHA1: 98dbec55ab2c0ce2abdf6456e0f3e0320f1a9e8d
-SHA256: 7c9d06a45d537b0687628d4ff954049de522c24decb109dff166d5cd6c4b649e
+Filename: ./debs/com.mortyick.gaegu_1.0_iphoneos-arm.deb
+Size: 492800
+MD5sum: 0e02581e0153fe358e924531e5a1fb34
+SHA1: 3b942000ac5c5973f2524ec05de609ff40dac6d4
+SHA256: f72010f3d57522835ab7e0aaacfba507a9aefdf1fdb86417a6ae62cb5adea6cc
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 
-Package: com.mortyick.gaecord
+Package: com.mortyick.gaegu
 Architecture: iphoneos-arm64
-Name: Gaecord
-Version: 1.0
+Name: Gaegu
+Version: 1.2
 Description: Half-assed port of Gaegu
 Section: Fonts
-Depends: firmware (>=16.0)
+Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
-Filename: ./debs/com.mortyick.gaecord_1.0_iphoneos-arm64.deb
-Size: 855244
-MD5sum: a62b22f5223eddc75428988b605d7b95
-SHA1: 6d3e688707297e272fe5f65549aedf9e2d8456b3
-SHA256: 16c69357e1017607f2bed8833a2ab1fd4e6e4b47c7c677c2122b3f3769b61d0e
+Filename: ./debs/com.mortyick.gaegu_1.0_iphoneos-arm64.deb
+Size: 492492
+MD5sum: 26068dd1fbe74fcd94c179a98ffb9040
+SHA1: 8b502e9f8e2f0ad3ccb34d5cd0b185ca19ce18cb
+SHA256: 303ab4aab56a80398c60bdbe87facf07344997eec5add602247097fa580b134d
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 
 Package: com.mortyick.wiivamp
@@ -666,3 +666,33 @@ Size: 149752
 MD5sum: de55868e279234e8a5b3debe0e574348
 SHA1: 17cfad13864b4add6d06fc2b8483d03453be179f
 SHA256: 7a5e4ab68ef293e6fe6c2076acccee420ef22ec5bf06a5633fdbffbae294af37
+
+Package: com.mortyick.bebopkeys
+Name: BebopKeys
+Architecture: iphoneos-arm
+Description: Bebop Keys for Laetus
+Version: 1.0
+Section: Laetus Themes
+Depends: firmware (>=14.0), com.spark.laetus
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.bebopkeys_1.0_iphoneos-arm.deb
+Size: 149712
+MD5sum: d9904d9b30353f43022a7c6625c02cde
+SHA1: b653edbcd9ce3ea4e55b82ad19310c34c48eb840
+SHA256: bfdd3f005ec06ef6f0d8d20929675ecc3d149bea1977b8b9da2fe5ff65d36642
+
+Package: com.mortyick.onyx
+Name: Onyx
+Description: Onyx for Laetus
+Section: Laetus Themes
+Depends: firmware (>=14.0), com.spark.laetus
+Architecture: iphoneos-arm
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 6135244
+Filename: ./debs/com.mortyick.onyx_1.0_iphoneos-arm.deb
+MD5sum: 55c6da7eee96cc7b501e628dcadd6fde
+SHA1: fd02168c765782ae981f98ea8eff01ec6db37aa7
+SHA256: 6887629017e76dada1e00261cee2282db178d1735cb23caee325ef133c8e6f35
