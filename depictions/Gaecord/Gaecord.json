@@ -45,7 +45,7 @@
             {
                "class":"DepictionTableTextView",
                "title":"Updated",
-               "text":"December 14, 2025"
+               "text":"January 19, 2026"
             },
             {
                "class":"DepictionTableTextView",
@@ -62,6 +62,29 @@
          "class":"DepictionStackView",
          "tabname":"Changelog",
          "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"1.2",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"January 19, 2026",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Actually add Hangul support"
+            },
             {
                "class":"DepictionLayerView",
                "views":[
