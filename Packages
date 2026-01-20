@@ -580,7 +580,7 @@ Name: Xen HTML
 Version: 2.1
 Description: Run HTML widgets on the Lockscreen and Homescreen
 Section: Tweaks
-Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, firmware (>=15.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, firmware (<=16.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap, cy+cpu.arm64v8 | oldabi-xina | oldabi
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Priority: Optional
 Architecture: iphoneos-arm64
