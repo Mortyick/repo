@@ -756,3 +756,18 @@ Filename: ./debs/com.mortyick.luc_1.0_iphoneos-arm64.deb
 MD5sum: 1e47453c23c8f3e2dedd4bdfc5a13726
 SHA1: baf2009cfba0ecc84a9a95cb37b152baa78641ef
 SHA256: 212512be565186a4f92d607f999244509e4cc35e854822ece81f58922b675876
+
+Package: com.mortyick.fungus16
+Name: Fungus16
+Description: An untethered jailbreak for iOS 16.0 - 16.5
+Section: Applications
+Depends: firmware (>=16.0), firmware (<=16.5.1)
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 337976
+Filename: ./debs/com.mortyick.fungus16_1.0_iphoneos-arm64.deb
+MD5sum: 249a87460acfcf6e8209983f1ab857e4
+SHA1: dc7307a2963ee12f7b4b8ad2458c76497516cc21
+SHA256: 60aa76dedcd3d3c0664e29d7e06522d9de7cc2f6c14e8be1fcadec1703cbdc2c
