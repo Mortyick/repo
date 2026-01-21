@@ -735,9 +735,9 @@ Depends: firmware (>=15.0), com.spark.laetus
 Architecture: iphoneos-arm64
 Author: Mortyick
 Maintainer: Mortyick
-Version: 1.0
-Size: 191300
-Filename: ./debs/com.mortyick.stratophere_1.0_iphoneos-arm64.deb
-MD5sum: 662ccd8d29227faaaec9e54eb08649ab
-SHA1: a62d4c063998f2bf63304994dd1e8bf7e671ab32
-SHA256: 283f938a8866c66622566a1c5e7c3dfa6f02caf7d3c09b64cc9fba2aaa601581
+Version: 1.1
+Size: 191664 
+Filename: ./debs/com.mortyick.stratophere_1.1_iphoneos-arm64.deb
+MD5sum: 2f9c08c7046587b2d8df2828192e14b4
+SHA1: 8cf5eb7ff38598673d1fb0430c1f87c18df3468e
+SHA256: 3f28a41ad1ab71560c1fd4ad1b92cdfe1787b83146d1aa9b4dd76ce1eb008e79
