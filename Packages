@@ -741,3 +741,18 @@ Filename: ./debs/com.mortyick.stratophere_1.1_iphoneos-arm64.deb
 MD5sum: 2f9c08c7046587b2d8df2828192e14b4
 SHA1: 8cf5eb7ff38598673d1fb0430c1f87c18df3468e
 SHA256: 3f28a41ad1ab71560c1fd4ad1b92cdfe1787b83146d1aa9b4dd76ce1eb008e79
+
+Package: com.mortyick.luc
+Name: Luc
+Description: A collection of HTML themes for Laetus
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 1350200
+Filename: ./debs/com.mortyick.luc_1.9_iphoneos-arm64.deb
+MD5sum: 1e47453c23c8f3e2dedd4bdfc5a13726
+SHA1: baf2009cfba0ecc84a9a95cb37b152baa78641ef
+SHA256: 212512be565186a4f92d607f999244509e4cc35e854822ece81f58922b675876
