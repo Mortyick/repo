@@ -696,3 +696,48 @@ Filename: ./debs/com.mortyick.onyx_1.1_iphoneos-arm.deb
 MD5sum: f84bba3ffe69d587f40c174093d98457
 SHA1: 588130d0b015cc8414c87aa2a5224c20eb43d8d4
 SHA256: 9d4e45c51e7984ad3a3b0a9e6155be7a2f48fd0ac320f165a88fb8b84e008c4e
+
+Package: com.mortyick.odyessy
+Name: Odyessy
+Description: Odyessy for Laetus
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 1706508
+Filename: ./debs/com.mortyick.odyessy_1.0_iphoneos-arm64.deb
+MD5sum: 94837c6442e2af8c07c2c19e975ab84e
+SHA1: 48da34e605017b97b5bc0841dea20bd6699b801e
+SHA256: 6c613daa937c242750ad311741e672315e643f5e2c8e98402770e5280d4e1150
+
+Package: com.mortyick.dune2099
+Name: Dune2099
+Description: Dune2099 for Laetus
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 2022536
+Filename: ./debs/com.mortyick.dune2099_1.0_iphoneos-arm64.deb
+MD5sum: 019822dfdedca9c0df694310b86b1d29
+SHA1: 879f06a9d66235e729311fef239ef8e396a11a31
+SHA256: a939cfd558cde82e1905a787c33255361b8e3409e1ae3f862cb3bae63a4e19ce
+
+Package: com.mortyick.stratophere
+Name: Stratophere
+Description: Stratophere for Laetus
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Size: 191300
+Filename: ./debs/com.mortyick.stratophere_1.0_iphoneos-arm64.deb
+MD5sum: 662ccd8d29227faaaec9e54eb08649ab
+SHA1: a62d4c063998f2bf63304994dd1e8bf7e671ab32
+SHA256: 283f938a8866c66622566a1c5e7c3dfa6f02caf7d3c09b64cc9fba2aaa601581
