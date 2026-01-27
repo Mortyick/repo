@@ -786,3 +786,18 @@ MD5sum: 27d3f1013672a9ccf10bd50be2ea8500
 SHA1: 2049952e5fc06769ef2688457bc4cc53736e9199
 SHA256: 23a684830b51d6fbb8a20a48d57bcbc678ea8fea88fd2a7b5a152dc2596dffbb
 Size: 14304
+
+Package: com.mortyick.kuromirespring
+Section: Respring Themes
+Maintainer: Mortyick
+Architecture: iphoneos-arm64
+Depends: firmware (>=15.0)
+Description: A Kuromi Respring Theme.
+Name: KuromiRespring
+Author: Mortyick
+Version: 1.0
+Filename: ./debs/com.mortyick.kuromirespring_1.0_iphoneos-arm64.deb
+MD5sum: e041c894f1bfa2d26500746286028e90
+SHA1: ed9232ad4d966ea8974cb2a3946fe678d67844af
+SHA256: b3ba49d9c64433e9bb5ec6352cce0370b083468aee163e3a63802f2bd3bd1014
+Size: 164780
