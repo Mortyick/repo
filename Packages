@@ -801,3 +801,18 @@ MD5sum: e041c894f1bfa2d26500746286028e90
 SHA1: ed9232ad4d966ea8974cb2a3946fe678d67844af
 SHA256: b3ba49d9c64433e9bb5ec6352cce0370b083468aee163e3a63802f2bd3bd1014
 Size: 164780
+
+Package: com.mortyick.ballpa1n
+Section: Applications
+Maintainer: Mortyick
+Architecture: iphoneos-arm64
+Depends: firmware (>=15.0)
+Description: very real jelbrek for iOS 1-16.x
+Name: ballpa1n
+Author: Mortyick
+Version: 1.0
+Filename: ./debs/com.mortyick.ballpa1n_1.0_iphoneos-arm64.deb
+MD5sum: 12ca83d92736207242360dddb3121804
+SHA1: 70561a950dfafba5708c6a0305ceebb1f347692f
+SHA256: a885757330564c174060916725075ed389d0555c28ee6ea18c0c11269d10c016
+Size: 510480
