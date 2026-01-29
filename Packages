@@ -818,7 +818,7 @@ SHA256: a885757330564c174060916725075ed389d0555c28ee6ea18c0c11269d10c016
 Size: 510480
 
 Package: com.mortyick.chococooky
-Architecture: iphoneos-arm6
+Architecture: iphoneos-arm64
 Name: ChocoCooky
 Version: 1.0
 Description: Half-assed port of Choco Cooky
