@@ -816,3 +816,19 @@ MD5sum: 12ca83d92736207242360dddb3121804
 SHA1: 70561a950dfafba5708c6a0305ceebb1f347692f
 SHA256: a885757330564c174060916725075ed389d0555c28ee6ea18c0c11269d10c016
 Size: 510480
+
+Package: com.mortyick.chococooky
+Architecture: iphoneos-arm6
+Name: ChocoCooky
+Version: 1.0
+Description: Half-assed port of Choco Cooky
+Section: Fonts
+Depends: firmware (>=15.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.chococooky_1.0_iphoneos-arm64.deb
+Size: 1304160
+MD5sum: e5ae8b9e3ca301dfd8cf2e017bc54700
+SHA1: 9b2661ca1889240bf1a17619a8616ceaf2e5afa3
+SHA256: 7749d9ba62fcbce77fbd7310e9a47f1d3306548b27caf590e3a8167d13025c99
+Sileodepiction: https://mortyick.github.io/repo/depictions/Choco/Cooky.json
