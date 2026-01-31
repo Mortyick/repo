@@ -832,3 +832,18 @@ MD5sum: e5ae8b9e3ca301dfd8cf2e017bc54700
 SHA1: 9b2661ca1889240bf1a17619a8616ceaf2e5afa3
 SHA256: 7749d9ba62fcbce77fbd7310e9a47f1d3306548b27caf590e3a8167d13025c99
 Sileodepiction: https://mortyick.github.io/repo/depictions/Choco/Cooky.json
+
+Package: com.mortyick.adonis
+Architecture: iphoneos-arm64
+Name: Adonis
+Version: 1.0
+Description: An eye-catching theme illuminated by matte colors
+Section: Themes
+Depends: firmware (>=15.0)
+Author: Mortyick
+Maintainer: Mortyick
+Filename: ./debs/com.mortyick.adonis_1.0_iphoneos-arm64.deb
+Size: 6695324
+MD5sum: 6c3bdd13df932cc07ca484f3968b7476
+SHA1: 3612e4fa673a4d2c75797cc315ca7da53fa03aab
+SHA256: 76e3a058ef80a617466d94fa0b3abafb474773f6b0e4877fe1cb5c55ea793c23
