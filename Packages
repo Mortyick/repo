@@ -873,7 +873,7 @@ Version: 1.0
 Depends: firmware (<=15.0)
 Author: Mortyick
 Maintainer: Mortyick
-Sections: Other
+Section: Other
 Size: 36004
 Filename: ./debs/com.mortyick.pseudo_1.0_iphoneos-arm64.deb
 MD5sum: d82f50744425a38fe3904729a0cfd1da
