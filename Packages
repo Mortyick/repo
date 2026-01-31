@@ -326,18 +326,19 @@ SHA1: 3f8a30d2cd3ec5429e43a86cdac9796b4b99e7d1
 SHA256: 433da7cd2aa2279af22c3b9ce753a96414dbe39e59a053a7671ae8e04126ad25
 
 Package: com.mortyick.twoui
-Version: 1.0
+Version: 2.0
 Section: Themes
 Maintainer: Mortyick
 Author: Mortyick
 Architecture: iphoneos-arm64
 Name: TwoUI
-Description: OneUI but worse.
-Filename: ./debs/com.mortyick.twoui_1.0_iphoneos-arm64.deb
-Size: 10974176
-MD5sum: ec2f3516075809315bbae064d377210e
-SHA1: 7c751100f34af05b32a0c71e286f795e4a2b682b
-SHA256: 15c4a51930b1c7ff2554e3c288f3060579b841c68f10cc42d7044942f2e62dc4
+Depends: firmware (>=15.0)
+Description: OneUI icons on iOS.
+Filename: ./debs/com.mortyick.twoui_2.0_iphoneos-arm64.deb
+Size: 288648
+MD5sum: 56b1fb55f57a73eb60cd4193767cef77
+SHA1: 7e85ab8d880f44c96599bd464c977d9d1dd6a574
+SHA256: 78ec46669268433c86470ff6e6b0af3fc9b56413dcd240bb2413ca46a203e371
 
 Package: mortyick.snowboard.respringextension
 Name: SnowBoard Respring Extension
