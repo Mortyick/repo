@@ -1,0 +1,105 @@
+{
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://mortyick.github.io/repo/depictions/MetaNav/header.png",
+   "tintColor": "#EE9CC0",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"MetaNav Respring Theme.",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://mortyick.github.io/repo/depictions/MetaNav/imwatching.png"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Description"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"Metaverse Navigator icon from Persona 5...?",
+               "useSpacing":true
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"1.0"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Size",
+               "text":"175 KB"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Updated",
+               "text":"November 20, 2025"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"iOS Versions",
+               "text":"14.0 - 16.6.1"
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            }
+         ]
+      },
+      {
+         "class":"DepictionStackView",
+         "tabname":"Changelog",
+         "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"1.0",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"November 20, 2025",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Initial release"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
+}
