@@ -73,6 +73,7 @@ Size: 91172
 MD5sum: 70ad7b2994f071f60346c1e57f98a6f9
 SHA1: 00451fb3ebc5d912f0cf6fd47c98af94e177f9bd
 SHA256: 0af444edddd682e49a562d8221326c73714750fd71e6f1674c3facd3e9483bfb
+Sileodepiction: https://mortyick.github.io/repo/depictions/MetaNav/MetaNav.json
 
 Package: com.mortyick.metanavigator
 Version: 1.0
@@ -87,6 +88,7 @@ Size: 91152
 MD5sum: a1e797748edcb87a2d1807d4d9137adf
 SHA1: 25351bc03b6e52f0efcd4e9d9e2a86d128acf26b
 SHA256: 1e3a8f8b35ea738578e63417bb6e495840cc6ddd6160739e968b8ce683b34fdf
+Sileodepiction: https://mortyick.github.io/repo/depictions/MetaNav/MetaNav.json
 
 Package: com.AppInstalleriOS.Untether
 Name: Untether
@@ -398,6 +400,7 @@ Size: 199616
 MD5sum: 7fa88b555d870921993045c94307b8ec
 SHA1: b91d805c41e34107cb3dd9344ab9cc41c78e9e59
 SHA256: 0e1ff1ee1ccda09f2578e8ea9894387f9a26cf9524f3ce009ccbee8a23a1d48e
+Sileodepiction: https://mortyick.github.io/repo/depictions/Anya/Anya.json
 
 Package: com.mortyick.anya
 Version: 1.0
@@ -412,6 +415,7 @@ Size: 199672
 MD5sum: e29ff615edfe6181597a1ef08a4a764f
 SHA1: c14faeee7b7d3ce9bcad30945c83c66dd9250323
 SHA256: c4645a92985b538b6542107d098c737c124d91c52095eaefef111de95d55b9a4
+Sileodepiction: https://mortyick.github.io/repo/depictions/Anya/Anya.json
 
 Package: com.mortyick.chiru
 Architecture: iphoneos-arm64
