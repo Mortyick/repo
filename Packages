@@ -875,7 +875,7 @@ Name: pseudo
 Description: sudo alternative
 Architecture: iphoneos-arm64
 Version: 1.0
-Depends: firmware (<=15.0)
+Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
 Section: Other
@@ -884,3 +884,19 @@ Filename: ./debs/com.mortyick.pseudo_1.0_iphoneos-arm64.deb
 MD5sum: d82f50744425a38fe3904729a0cfd1da
 SHA1: 04f9318b18985bbf43e7c661754e31d5631ec301
 SHA256: 9a25f356b994a891ff4805395a68d15ca3bcc6184a8195170b0bdb330b80ecf8
+
+Package: com.batues.biolock
+Name: BioLock Enhanced
+Description: Advanced app locker with Face ID/Touch ID support. Features include: customizable authentication prompts, authentication caching, passcode fallback option, haptic feedback, and more. Fully free and open source.
+Homepage: https://github.com/BatuBey5G/BioLock
+Maintainer: Batu
+Author: Batu
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Architecture: iphoneos-arm64
+Version: 1.1.0-8+debug
+Size: 17524
+Filename: ./debs/com.batues.biolock_1.1.0-8+debug_iphoneos-arm64.deb
+MD5sum: 03f8e497449bf2d40ca227d0b12b2afc
+SHA1: 19e6ae9c1f0f0605b68b2e9e539846e8ffa7ec6d
+SHA256: de0d1617eb1835d8a029d7e5e9a9fb3db54571a447d6e85674ecc6b03ae51ab3
