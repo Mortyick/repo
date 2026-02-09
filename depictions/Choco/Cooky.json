@@ -14,6 +14,17 @@
                "useBoldText":true
             },
             {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://mortyick.github.io/repo/depictions/Choco/2.png"
+                  }
+               ]
+            },
+            {
                "class":"DepictionHeaderView",
                "title":"Description"
             },
