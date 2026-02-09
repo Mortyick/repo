@@ -900,3 +900,18 @@ Filename: ./debs/com.batues.biolock_1.1.0-8+debug_iphoneos-arm64.deb
 MD5sum: 03f8e497449bf2d40ca227d0b12b2afc
 SHA1: 19e6ae9c1f0f0605b68b2e9e539846e8ffa7ec6d
 SHA256: de0d1617eb1835d8a029d7e5e9a9fb3db54571a447d6e85674ecc6b03ae51ab3
+
+Package: com.mortyick.notwitter
+Name: NoTwitter
+Description: Prevents you from using Twitter lmao
+Maintainer: Mortyick
+Author: Mortyick
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.1
+Size: 4840
+Filename: ./debs/com.mortyick.notwitter_1.1_iphoneos-arm64.deb
+MD5sum: 0b6801942b90e183cc6047c0c5281bfc
+SHA1: 729ba4b57abee8b52e37471f70f9f2b60a53034a
+SHA256: 885499cf701347998d4f3359193f70f281fd258ab3e23c18f9f212b616a4a472
