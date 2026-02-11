@@ -915,3 +915,18 @@ Filename: ./debs/com.mortyick.notwitter_1.1_iphoneos-arm64.deb
 MD5sum: 0b6801942b90e183cc6047c0c5281bfc
 SHA1: 729ba4b57abee8b52e37471f70f9f2b60a53034a
 SHA256: 885499cf701347998d4f3359193f70f281fd258ab3e23c18f9f212b616a4a472
+
+Package: com.lns.gulfofmexico
+Name: GulfOfMexico
+Description: A tweak that brings back the Gulf of Mexico!
+Maintainer: Ruphane
+Author: Ruphane
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Size: 3264
+Filename: ./debs/com.lns.gulfofmexico_1.0_iphoneos-arm64.deb
+MD5sum: c9ffb5667b108c3bb5c1dcc639501467
+SHA1: c2a04ea9b97457ff1ac3f94f7d31b678fa958ca4
+SHA256: 55522be93f4a357e5c185c7e81a55c0e14302562848bf8b1e7718fb337c5d70e
