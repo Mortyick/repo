@@ -930,3 +930,18 @@ Filename: ./debs/com.lns.gulfofmexico_1.0_iphoneos-arm64.deb
 MD5sum: c9ffb5667b108c3bb5c1dcc639501467
 SHA1: c2a04ea9b97457ff1ac3f94f7d31b678fa958ca4
 SHA256: 55522be93f4a357e5c185c7e81a55c0e14302562848bf8b1e7718fb337c5d70e
+
+Package: online.transrights.glow
+Name: Glowie
+Description: Change your iOS label colors with Glowie!
+Maintainer: Kota & Snoolie & Mineek
+Author: Kota & Snoolie & Mineek
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Architecture: iphoneos-arm64
+Version: 1.3.4
+Size: 914938
+Filename: ./debs/online.transrights.glow_1.3.4_iphoneos-arm64.deb
+MD5sum: 0ade7ad8e8465f209fa2df405d76613b
+SHA1: 6b8ccf892524a35fa56af15d4d0ff8fc5bdb0565
+SHA256: a571355375e1375960fd49a36d82cdd5c8bccdd265bdfbbc3fdf5bd7dcb1f1b0
