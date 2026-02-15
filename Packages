@@ -975,3 +975,18 @@ Filename: ./debs/gay.kota.kls_0.8_iphoneos-arm64.deb
 MD5sum: 647e321809374e30b71c275d826ce698
 SHA1: 890eb016a3f6a2de1085f83a93cc641154f165b7
 SHA256: 84f0b1a6fa28e5f10e92a68e6dcad9e182dcee834f48362eebb6b0824e3d3206
+
+Package: com.p2kdev.colorbar
+Name: ColorBar
+Author: P2KDev
+Maintainer: P2KDev
+Description: Color that HomeBar!
+Version: 1.0
+Section: Tweaks
+Depends: firmware (>=15.0)
+Architecture: iphoneos-arm64
+Size: 10212
+Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm64.deb
+MD5sum: 2a63a70d3d6f5c87987546050fe3f1ed
+SHA1: 8510e31520c7ef10134df07b48635b97968087ca
+SHA256: 5f3eec702ed49da77d0f079fc889d1294b82733c08d28e7be174b3877d184455
