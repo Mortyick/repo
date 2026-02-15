@@ -960,3 +960,18 @@ Filename: ./debs/online.transrights.glow_1.3.4_iphoneos-arm.deb
 MD5sum: 32f8abd24444ee728b546e1cac5d4ae2
 SHA1: fa735af3c649fbfbabbe2e7e0d762ddb1862b534
 SHA256: b419046f0a8e81f06879cf0b02ea483f120f282538309831c94ab7d66dbc924b
+
+Package: gay.kota.kls
+Name: KLS
+Description: Customize your Lock Screen
+Maintainer: Kota
+Author: Kota & Snoolie
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3),  ws.hbang.alderis (>= 1.1)
+Architecture: iphoneos-arm64
+Version: 0.8
+Size: 29284
+Filename: ./debs/gay.kota.kls_0.8_iphoneos-arm64.deb
+MD5sum: 647e321809374e30b71c275d826ce698
+SHA1: 890eb016a3f6a2de1085f83a93cc641154f165b7
+SHA256: 84f0b1a6fa28e5f10e92a68e6dcad9e182dcee834f48362eebb6b0824e3d3206
