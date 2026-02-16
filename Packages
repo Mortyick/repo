@@ -990,3 +990,33 @@ Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm64.deb
 MD5sum: 2a63a70d3d6f5c87987546050fe3f1ed
 SHA1: 8510e31520c7ef10134df07b48635b97968087ca
 SHA256: 5f3eec702ed49da77d0f079fc889d1294b82733c08d28e7be174b3877d184455
+
+Package: com.mortyick.dreamworld
+Name: Dreamworld
+Architecture: iphoneos-arm64
+Version: 1.0
+Depends: firmware (>=15.0)
+Description: A port of another MIUI theme called Dreamworld?
+Author: Mortyick
+Maintainer: Mortyick
+Section: Themes
+Size: 507696
+Filename: ./debs/com.mortyick.dreamworld_1.0_iphoneos-arm64.deb
+MD5sum: 50cbbeab9602cb451f454c4a7e5c1b94
+SHA1: f67d5839a17b8d1b541e831ece7b94024d7802c3
+SHA256: d3a0d9eeffd00653dddb68222979249492b387b67e094fa495454f0fe3c99c0b
+
+Package: com.mortyick.dvrktekken
+Name: DVRK Tekken
+Architecture: iphoneos-arm64
+Version: 1.0
+Depends: firmware (>=15.0)
+Description: A port of MIUI theme called DVRK Tekken...?
+Author: Mortyick
+Maintainer: Mortyick
+Section: Themes
+Size: 592576
+Filename: ./debs/com.mortyick.dvrktekken_1.0_iphoneos-arm64.deb
+MD5sum: 2136090a204713c70840c4d56bd684fd
+SHA1: 1afdc5f0c73580e204abac7afa6fb04915b6aee9
+SHA256: bed6dc626b0d8aa468fb2e89d510ae73e1d25eba222b4b1f199dd8987ad4ce6c
