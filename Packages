@@ -1035,3 +1035,18 @@ Filename: ./debs/com.mortyick.persona5_1.0_iphoneos-arm64.deb
 MD5sum: d86b637dd44c9fb319edb2626025fe06
 SHA1: bac01875927f3244360b728cb7db0b25376aa880
 SHA256: c3fd5331e4c129abaf3e6f23dc3f983d0455e2fe3cc28bc454159bf3b518adf2
+
+Package: com.mortyick.hutao
+Name: Hu Tao
+Architecture: iphoneos-arm64
+Version: 1.0
+Depends: firmware (>=15.0)
+Description: A Hu Tao Respring Theme.
+Author: Mortyick
+Maintainer: Mortyick
+Section: Respring Themes
+Size: 273748
+Filename: ./debs/com.mortyick.hutao_1.0_iphoneos-arm64.deb
+MD5sum: b05387668b5403fcd0e7d3ba9e7db462
+SHA1: dd4e1cd1a3e7aa50acf2e94c2ee0aabdb1ca74d9
+SHA256: 3960aa4027e4a8bb168bd68dad3363e3df3bacfff9b28d328884e16025445184
