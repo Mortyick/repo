@@ -1067,3 +1067,18 @@ MD5sum: c1778118c8f31c06c92b5c8c23f4f0b6
 SHA1: 7c6b29a9c18a75e09d0ad3fdaafd5db44ba8d758
 SHA256: ff067c21723d1801b5c748bee8b46b3e840f3749febfb6f0d9a126f25a56abd5
 Sileodepiction: https://mortyick.github.io/repo/depictions/klee/Klee.json
+
+Package: com.mortyick.hitori
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Hitori
+Description: A Hitori (Gotoh) Respring Theme.
+Size: 233016
+MD5sum: 34827a3f3840522aff07bdb1f5d58f35
+SHA1: d5afae75b5a7eae7712458ae3f0c64896b80cf1f
+SHA256: 6e8dca6744b210749fce2b39c66c8957c9bc8dc5a1b7b5f7977129fa02e37ffa
+Filename: ./debs/com.mortyick.hitori.0_iphoneos-arm64.deb
+Sileodepiction: https://mortyick.github.io/repo/depictions/hitori/Hitori.json
