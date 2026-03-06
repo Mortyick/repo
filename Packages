@@ -1051,3 +1051,19 @@ MD5sum: 4e66eedc0fb704e2aec205bccb6c5cc6
 SHA1: 5bc3affaee934b7d78de45828a13913f57975679
 SHA256: 7753716444e18f0989c4e8312948e61c86baa5f75da43b2dabc973506041f831
 Sileodepiction: https://mortyick.github.io/repo/depictions/hutao/Hutao.json
+
+Package: com.mortyick.klee
+Name: Klee
+Architecture: iphoneos-arm64
+Version: 1.0
+Depends: firmware (>=15.0)
+Description: A Klee Respring Theme.
+Author: Mortyick
+Maintainer: Mortyick
+Section: Respring Themes
+Size: 264052
+Filename: ./debs/com.mortyick.klee_1.0_iphoneos-arm64.deb
+MD5sum: c1778118c8f31c06c92b5c8c23f4f0b6
+SHA1: 7c6b29a9c18a75e09d0ad3fdaafd5db44ba8d758
+SHA256: ff067c21723d1801b5c748bee8b46b3e840f3749febfb6f0d9a126f25a56abd5
+Sileodepiction: https://mortyick.github.io/repo/depictions/klee/Klee.json
