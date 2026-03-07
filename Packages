@@ -1082,3 +1082,18 @@ SHA1: d5afae75b5a7eae7712458ae3f0c64896b80cf1f
 SHA256: 6e8dca6744b210749fce2b39c66c8957c9bc8dc5a1b7b5f7977129fa02e37ffa
 Filename: ./debs/com.mortyick.hitori_1.0_iphoneos-arm64.deb
 Sileodepiction: https://mortyick.github.io/repo/depictions/hitori/Hitori.json
+
+Package: com.34306.shimastyle
+Name: ShimaStyle
+Description: Force all notifications to Dynamic Island with custom background support. Supports iOS 16-26.
+Maintainer: Little 34306
+Author: 34306
+Section: Tweaks
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Filename: ./debs/com.34306.shimastyle_1.0.0_iphoneos-arm64
+MD5sum: f2e593108927d25bdc0bdecb11f35b95
+SHA1: 7d201f4fefabe9e6c1626fece90d4b5d2ea6e1df
+SHA256: 926819685cf9916118438b163e4927cebcd640bd7579820753756ebb5c253197
+Size: 27934
