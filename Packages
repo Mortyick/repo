@@ -314,20 +314,6 @@ SHA1: d67640b05f9a0874315296092c43f584847277d5
 SHA256: 0e1f0a01602f5b4da83f7a650040c0ce2bc829e9df254d7daa5cd48231a34164
 
 Package: com.mortyick.twoui
-Version: 1.0
-Section: Themes
-Maintainer: Mortyick
-Author: Mortyick
-Architecture: iphoneos-arm
-Name: TwoUI
-Description: OneUI but worse.
-Filename: ./debs/com.mortyick.twoui_1.0_iphoneos-arm.deb
-Size: 10974168
-MD5sum: 2f366f54fbb4f7d01edf5d5982279641
-SHA1: 3f8a30d2cd3ec5429e43a86cdac9796b4b99e7d1
-SHA256: 433da7cd2aa2279af22c3b9ce753a96414dbe39e59a053a7671ae8e04126ad25
-
-Package: com.mortyick.twoui
 Version: 2.0
 Section: Themes
 Maintainer: Mortyick
@@ -356,36 +342,6 @@ Size: 22420
 MD5sum: 81ed57adedf464b68638563b580ac882
 SHA1: bcf0505e8c2afd07b45e70521ec26b67f65bbc04
 SHA256: 38b100322a68184a9c2da59cffd89e0e63aae9d769d92a73b5ff024a002f25cf
-
-Package: com.mortyick.pixelify
-Architecture: iphoneos-arm64
-Name: Pixelify
-Version: 1.0
-Description: Crappy port of Pixelify
-Section: Fonts
-Depends: firmware (>=14.0)
-Author: Mortyick
-Maintainer: Mortyick
-Filename: ./debs/com.mortyick.pixelify_1.0_iphoneos-arm64.deb
-Size: 625608
-MD5sum: 09bb829fa6abdd4804d198886d854a4a
-SHA1: 9faaf562a601190a4cdf9c5a9394a9be27a2e815
-SHA256: 04e70a1bfacf0d48539f53d1a268878ee5982288698f3d2a0f4c42c0f8889034
-
-Package: com.mortyick.estiebestie
-Architecture: iphoneos-arm64
-Name: EstieBestie
-Version: 1.0
-Description: Crappy port of Estie Bestie
-Section: Fonts
-Depends: firmware (>=14.0)
-Author: Mortyick
-Maintainer: Mortyick
-Filename: ./debs/com.mortyick.estiebestie_1.0_iphoneos-arm64.deb
-Size: 624324
-MD5sum: 5463725f6f98193700696cedb5eb1968
-SHA1: 0d4b8b4aa58baa337d4ae72bd4ba1050684bee6e
-SHA256: 16f5f73b14508d8d7def0c87e3db52c035c62d459c24207f36808c3c08f87050
 
 Package: com.mortyick.anya
 Version: 1.0
@@ -416,51 +372,6 @@ MD5sum: e29ff615edfe6181597a1ef08a4a764f
 SHA1: c14faeee7b7d3ce9bcad30945c83c66dd9250323
 SHA256: c4645a92985b538b6542107d098c737c124d91c52095eaefef111de95d55b9a4
 Sileodepiction: https://mortyick.github.io/repo/depictions/Anya/Anya.json
-
-Package: com.mortyick.chiru
-Architecture: iphoneos-arm64
-Name: Chiru
-Version: 1.0
-Description: Crappy port of Chiru
-Section: Fonts
-Depends: firmware (>=14.0)
-Author: Mortyick
-Maintainer: Mortyick
-Filename: ./debs/com.mortyick.chiru_1.0_iphoneos-arm64.deb
-Size: 1240048
-MD5sum: 70d694638c4744ae9e8115ca673a511d
-SHA1: 06744d6532a63952cd51c31c04ab8b868c885c67
-SHA256: f741b3e6eac655081bc84a2b0fe763187c9e329f0263ba7a22719f7def7999fb
-
-Package: com.mortyick.syongsyong
-Architecture: iphoneos-arm64
-Name: Syongsyong
-Version: 1.0
-Description: Crappy port of Syongsyong
-Section: Fonts
-Depends: firmware (>=14.0)
-Author: Mortyick
-Maintainer: Mortyick
-Filename: ./debs/com.mortyick.syongsyong_1.0_iphoneos-arm64.deb
-Size: 946368
-MD5sum: 512def73d12ad47871db1d0551cc2b8e
-SHA1: 5e4df716ef85572929e5ac45a0c1d6fc42ec1d6d
-SHA256: 4f4c48fad7ad389fe75c56b2ba86aaf731665099b6d1bdd0b96da03cc4c32a7e
-
-Package: com.mortyick.cousagi
-Architecture: iphoneos-arm64
-Name: Cousagi
-Version: 1.0
-Description: Crappy port of Cousagi
-Section: Fonts
-Depends: firmware (>=14.0)
-Author: Mortyick
-Maintainer: Mortyick
-Filename: ./debs/com.mortyick.cousagi_1.0_iphoneos-arm64.deb
-Size: 693196
-MD5sum: 6318eb0356a68745f1dba2ce07ef2f34
-SHA1: 672a40040cde3f808a1e99280c37cbe23467bb41
-SHA256: 56b494bca670ef4dfe1018f18a21b641a6abf3db04228370d6bdfd0893dec2dc
 
 Package: com.mortyick.megumin
 Version: 1.0
@@ -807,21 +718,6 @@ MD5sum: e041c894f1bfa2d26500746286028e90
 SHA1: ed9232ad4d966ea8974cb2a3946fe678d67844af
 SHA256: b3ba49d9c64433e9bb5ec6352cce0370b083468aee163e3a63802f2bd3bd1014
 Size: 164780
-
-Package: com.mortyick.ballpa1n
-Section: Applications
-Maintainer: Mortyick
-Architecture: iphoneos-arm64
-Depends: firmware (>=15.0)
-Description: very real jelbrek for iOS 1-16.x
-Name: ballpa1n
-Author: Mortyick
-Version: 1.0
-Filename: ./debs/com.mortyick.ballpa1n_1.0_iphoneos-arm64.deb
-MD5sum: 12ca83d92736207242360dddb3121804
-SHA1: 70561a950dfafba5708c6a0305ceebb1f347692f
-SHA256: a885757330564c174060916725075ed389d0555c28ee6ea18c0c11269d10c016
-Size: 510480
 
 Package: com.mortyick.chococooky
 Architecture: iphoneos-arm64
