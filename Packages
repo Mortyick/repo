@@ -993,3 +993,18 @@ MD5sum: f2e593108927d25bdc0bdecb11f35b95
 SHA1: 7d201f4fefabe9e6c1626fece90d4b5d2ea6e1df
 SHA256: 926819685cf9916118438b163e4927cebcd640bd7579820753756ebb5c253197
 Size: 27934
+
+Name: pokemon-colorscripts
+Package: com.mortyick.pkmncolorscripts
+Description: Pokémon colorscripts, for iOS?
+Architecture: iphoneos-arm64
+Author: Mortyick
+Maintainer: Mortyick
+Depends: firmware (>=15.0), python3
+Version: 1.0
+Section: Utilities
+Filename: ./debs/com.mortyick.pkmncolorscripts_1.0_iphoneos-arm64.deb
+MD5sum: 50d690f89653938193bdcd36dbc37273
+SHA1: 67e9fa74529e8d1931d68166a7d30e09e77076c2
+SHA256: 332cd1b8b0abc336963951b52022a1b0573b76e26d562df926499a59d17cab82
+Size: 2917732
