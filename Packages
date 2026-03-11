@@ -1008,3 +1008,18 @@ MD5sum: 50d690f89653938193bdcd36dbc37273
 SHA1: 67e9fa74529e8d1931d68166a7d30e09e77076c2
 SHA256: 332cd1b8b0abc336963951b52022a1b0573b76e26d562df926499a59d17cab82
 Size: 2917732
+
+Package: c.ghh.apfshack
+Name: APFSRW
+Description: tool for working with APFS partitions
+Maintainer: Mortyick
+Author: untether
+Section: System
+Depends: firmware (>=15.0)
+Architecture: iphoneos-arm64
+Version: 1.0
+Size: 9156
+Filename: ./debs/c.ghh.apfshack_1.0_iphoneos-arm64.deb
+MD5sum: d5f53a2697048398113ebedf0c4aa1b5
+SHA1: 58d9d6d025ba20cde0c3e5cfea7617d793b4cbd0
+SHA256: ab51ce0c8c6e9beffe7a364fdfb4c7df235f3390583b5291111ae30a33e5c295
