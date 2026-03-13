@@ -2,4 +2,14 @@
 
 i wouldnt use this if i were you
 
-i can't promise that everything here will work properly (or at all), your mileage may vary.
+# stuff that (probably) doesn't work (properly):
+
+wiivamp: lags a lot on ios 16, at least on my device, needs more testing
+
+snell: same as wiivamp
+
+XenHTML: doesn't work on iOS 16, use Designer instead
+
+IconRenamer: doesn't work on 16
+
+OwO: doesn't seem to work properly
