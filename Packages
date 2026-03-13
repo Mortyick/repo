@@ -1023,3 +1023,18 @@ Filename: ./debs/c.ghh.apfshack_1.0_iphoneos-arm64.deb
 MD5sum: d5f53a2697048398113ebedf0c4aa1b5
 SHA1: 58d9d6d025ba20cde0c3e5cfea7617d793b4cbd0
 SHA256: ab51ce0c8c6e9beffe7a364fdfb4c7df235f3390583b5291111ae30a33e5c295
+
+Package: com.mortyick.kirby
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Kirby
+Description: A Kirby Respring Theme.
+Size: 143376
+MD5sum: ddc1bb4a34d27230c9fdf1c0002a076f
+SHA1: 2b01b432c5dac9855938cf272ce24a075d07e3a4
+SHA256: 18829c0a13d2916c47de59088aeafb0624268dea58a515683042e93255862045
+Filename: ./debs/com.mortyick.kirby_1.0_iphoneos-arm64.deb
+Sileodepiction: https://mortyick.github.io/repo/depictions/kirby/Kirby.json
