@@ -1038,3 +1038,18 @@ SHA1: 2b01b432c5dac9855938cf272ce24a075d07e3a4
 SHA256: 18829c0a13d2916c47de59088aeafb0624268dea58a515683042e93255862045
 Filename: ./debs/com.mortyick.kirby_1.0_iphoneos-arm64.deb
 Sileodepiction: https://mortyick.github.io/repo/depictions/kirby/Kirby.json
+
+Package: com.mortyick.keypadfumo3x
+Name: Fumo (Keypad for 3x)
+Description: Fumos as your passcode keypad!
+Depends: firmware (>=16.0)
+Author: Mortyick
+Maintainer: Mortyick
+Section: Other
+Architecture: iphoneos-arm64
+Version: 1.0
+Filename: ./debs/com.mortyick.keypadfumo3x_1.0_iphoneos-arm64.deb
+Size: 688396
+MD5sum: e189d2f141b8a708053e5686b0602b81
+SHA1: 8c4aceab3add86c9278c17a24bd7bd354d3560ec
+SHA256: 123a19944a8ef3ffc0c3f8a2668d0e2c309d71b5e1b54df13dd43cc066846a76
