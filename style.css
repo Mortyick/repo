@@ -1,4 +1,4 @@
-@import url('https://fonts.cdnfonts.com/css/helvetica-neue-5');
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
 
 *{
     margin: 0 auto;
@@ -18,9 +18,9 @@ button{
     text-align: center;
     margin: 20px 10 px;
     border-radius: 30px;
-    border: 2px solid #101010;
+    border: 2px solid #000000;
     font-weight: bold;
-    background: #1e2021;
+    background: #000000;
     color: #ffffff;
     cursor: pointer;
     position: center;
@@ -29,7 +29,7 @@ button{
     font-family: inherit;
     overflow: hidden;
     transition-duration: 0.5s;
-    font-size: 15px
+    font-size: 20px
 }
 
 body{
@@ -40,5 +40,5 @@ body{
     background: black no-repeat;
     background-size: cover;
     place-content: center;
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: "Reenie Beanie", cursive;
 }
