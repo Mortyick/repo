@@ -1053,3 +1053,81 @@ Size: 688396
 MD5sum: e189d2f141b8a708053e5686b0602b81
 SHA1: 8c4aceab3add86c9278c17a24bd7bd354d3560ec
 SHA256: 123a19944a8ef3ffc0c3f8a2668d0e2c309d71b5e1b54df13dd43cc066846a76
+
+Package: net.cadoth.noinappsafari
+Name: NoInAppSafari
+Description: Disable in-app browsers globally
+Maintainer: nyuszika7h
+Author: nyuszika7h
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: in.net.mario.tweak.openurlprompt
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Size: 6524
+Filename: ./debs/net.cadoth.noinappsafari_0.1.2_iphoneos-arm64.deb
+MD5sum: 6739bc5f8b61c031229f28e223629dd1
+SHA1: 6a63399c102fe86b3a47faae84030ae706b921c4
+SHA256: d165b6621e9d2b7d49d73c9b0c91e6a394d9020e246dfafd26aff9706d944c61
+
+Package: net.cadoth.otaenabler
+Name: OTAEnabler
+Depends: awk | gawk, com.bingner.plutil, file-cmds
+Conflicts: com.apple.memecity, jp.akusio.kernbypass, jp.akusio.kernbypassbeta, jp.akusio.kernbypass-unofficial
+Architecture: iphoneos-arm64
+Description: Re-enable OTA software updates blocked by various methods
+Maintainer: alexia
+Author: alexia
+Section: System
+Version: 0.4.2
+Filename: ./debs/net.cadoth.otaenabler_0.4.2_iphoneos-arm64.deb
+Size: 2104
+MD5sum: eebf531755e3b7e18098ee642e66e5ed
+SHA1: 540cb24930f8877e66dc14f0ea4fdf2c56aff279
+SHA256: fa99610b3e22800d1209f56117ee29302adb107100d07f53af1a316469a40f14
+
+Package: net.cadoth.fakepass
+Name: FakePass
+Architecture: iphoneos-arm64
+Description: Fake passcode for checkm8 jailbreaks on iOS 14+ on A11
+Maintainer: alexia
+Author: alexia
+Section: Tweaks
+Depends: com.opa334.libsandy, cy+cpu.arm64, firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: cy+cpu.arm64e, com.foxfort.checkl0ck, com.yourepo.plat-ykor.check4round, me.krit.lockdown
+Version: 0.1.5
+Size: 14116
+Filename: ./debs/net.cadoth.fakepass_0.1.5_iphoneos-arm64.deb
+MD5sum: b9010de49dd57773d87ee7846ce47ef1
+SHA1: f9fe3b4115221ce6f0d2cafa208c67586cfe1365
+SHA256: 09f5a7af2fa2279f0b2819e82878e0ebcc48cd04cd037605e41b30b5addbab34
+
+Package: me.alexia.rocketbootstrapfix
+Name: RocketBootstrapFix
+Description: Fix RocketBootstrap on iOS 15+
+Maintainer: alexia
+Author: alexia
+Section: System
+Depends: bsdiff, com.rpetrich.rocketbootstrap (= 1.0.10~beta1), coreutils, ldid (>= 2.1.5-procursus7)
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Size: 1752
+Filename: me.alexia.rocketbootstrapfix_0.1.2_iphoneos-arm64.deb
+MD5sum: 068c3a4a883567c247833d25ba8f5e0c
+SHA1: 855bd68c237ee62d0b4d1bbe97f00088706ce112
+SHA256: 31a03fc0479b7d9a3d58a3d3a53ae8084628e07fe836e3ac34c19cd2c1ac1402
+
+Package: com.mortyick.fiveicondock
+Name: FiveIconDock
+Description: 5 icons on your dock, pretty self explanatory.
+Author: Mortyick
+Maintainer: Mortyick
+Section: Tweaks
+Version: 1.0
+Depends: firmware (>=15.0)
+Architecture: iphoneos-arm64
+Size: 3316
+Filename: com.mortyick.fiveicondock_1.0_iphoneos-arm64.deb
+MD5sum: 6673be1ad4f3d00dd99bf152d55b5edf
+SHA1: 1fc313b2ad66d39180c47c826c511a54492b003c
+SHA256: 8f4c1d8af7cef3883434c6a50f402596ab3dfd938f13237939c44d628b5e62e0
