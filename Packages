@@ -285,17 +285,17 @@ Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 Package: com.mortyick.gaegu
 Architecture: iphoneos-arm64
 Name: Gaegu
-Version: 1.2
+Version: 1.3
 Description: Half-assed port of Gaegu
 Section: Fonts
 Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
-Filename: ./debs/com.mortyick.gaegu_1.0_iphoneos-arm64.deb
-Size: 492492
-MD5sum: 26068dd1fbe74fcd94c179a98ffb9040
-SHA1: 8b502e9f8e2f0ad3ccb34d5cd0b185ca19ce18cb
-SHA256: 303ab4aab56a80398c60bdbe87facf07344997eec5add602247097fa580b134d
+Filename: ./debs/com.mortyick.gaegu_1.3_iphoneos-arm64.deb
+Size: 214840
+MD5sum: 33b75df4d9d9ea24364b835b21152817
+SHA1: faadc9801cd6783954d47e98d27a15026d34e989
+SHA256: 9fc26bd60bf6ecc710903814dc58625d50970b84642742c4f207bcca63e8ffd8
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 
 Package: com.mortyick.wiivamp
