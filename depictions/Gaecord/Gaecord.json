@@ -46,7 +46,7 @@
             {
                "class":"DepictionTableTextView",
                "title":"Version",
-               "text":"1.2"
+               "text":"1.3"
             },
             {
                "class":"DepictionTableTextView",
@@ -56,7 +56,7 @@
             {
                "class":"DepictionTableTextView",
                "title":"Updated",
-               "text":"January 19, 2026"
+               "text":"March 15, 2026"
             },
             {
                "class":"DepictionTableTextView",
@@ -73,6 +73,29 @@
          "class":"DepictionStackView",
          "tabname":"Changelog",
          "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"1.3",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"March 15, 2026",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- More characters added"
+            },
             {
                "class":"DepictionLayerView",
                "views":[
