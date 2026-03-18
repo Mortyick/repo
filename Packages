@@ -1131,3 +1131,18 @@ Filename: ./debs/com.mortyick.fiveicondock_1.0_iphoneos-arm64.deb
 MD5sum: 6673be1ad4f3d00dd99bf152d55b5edf
 SHA1: 1fc313b2ad66d39180c47c826c511a54492b003c
 SHA256: 8f4c1d8af7cef3883434c6a50f402596ab3dfd938f13237939c44d628b5e62e0
+
+Package: com.mortyick.donut
+Name: Donut
+Description: The iconic spinning donut but for iOS
+Author: Mortyick
+Maintainer: Mortyick
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: firmware (>=15.0), python3
+Section: Utilities
+Filename: ./debs/com.mortyick.donut_1.0_iphoneos-arm64.deb
+Size: 1536
+MD5sum: aad23f0f28d64d70cbebc0e8220f0869
+SHA1: e845b53ce2ae6185bdc68e2552d5455694afdd17
+SHA256: 68e6e4127175b165607ba8a44c4a6018137e5b502df1f08b601c8434198286e2
