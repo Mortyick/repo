@@ -1146,3 +1146,18 @@ Size: 1536
 MD5sum: aad23f0f28d64d70cbebc0e8220f0869
 SHA1: e845b53ce2ae6185bdc68e2552d5455694afdd17
 SHA256: 68e6e4127175b165607ba8a44c4a6018137e5b502df1f08b601c8434198286e2
+
+Package: com.mortyick.hackintosh
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Hackintosh
+Description: Some hackintosh apple logo as a respring theme.
+Sileodepiction: https://mortyick.github.io/repo/depictions/haxx/Hackintosh.json
+Size: 161144
+Filename: ./debs/com.mortyick.hackintosh_1.0_iphoneos-arm64.deb
+MD5sum: ced458cfa4fed44df1f4a438deee6e60
+SHA1: dcea308bfc11160541a052659527658d2ef4d8a6
+SHA256: 8c1397585df51ab303e57d579b8f0e35a00fd9acdfce8bd6993a258592a7a889
