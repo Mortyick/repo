@@ -1,0 +1,105 @@
+{
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://mortyick.github.io/repo/depictions/Choco/header.png",
+   "tintColor": "#cde2f4",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"Half-assed port of You Warm My Heart",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://mortyick.github.io/repo/depictions/warmth/ss.png"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Description"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"A crappy port of the font You Warm My Heart",
+               "useSpacing":true
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"1.0"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Size",
+               "text":"26 KB"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Updated",
+               "text":"March 23, 2026"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"iOS Versions",
+               "text":"14.0 - 16.6.1"
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            }
+         ]
+      },
+      {
+         "class":"DepictionStackView",
+         "tabname":"Changelog",
+         "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"1.0",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"March 23, 2026",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Initial release"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
+}
