@@ -14,5 +14,7 @@ IconRenamer: doesn't work on 16
 
 OwO: doesn't seem to work properly
 
+Bedrock/mcsplash: doesn't seem to work on iOS 16
+
 # contact
 if you got a problem just make an issue, and I may or may not be able to help you/fix the problem :)
