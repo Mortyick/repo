@@ -1204,7 +1204,7 @@ Depends: firmware (>=15.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
 Section: Tweaks
 Version: 1.1.1
 Size: 444572
-Filename: ./debs/applist_1.6_iphoneos-arm64.deb
+Filename: ./debs/com.samgisaninja.mcsplash_1.1.1_iphoneos-arm64.deb
 MD5sum: 177c04d2c8797ef5eb0da98edc5cb156
 SHA1: 8544bd27d261a34a0bb7cddaccb56ff8782af88e
 SHA256: a41f5add1c79f10451f8a81efe96d8e37f0b7cff8edde1dc7a06943951a2e9c6
@@ -1232,9 +1232,9 @@ Description: Support library allowing tweaks to communicate with sandboxed proce
 Maintainer: Mortyick
 Author: Ryan Petrich
 Section: Tweaks
-Version: 1.1
-Size: 22804
-Filename: ./debs/com.rpetrich.rocketbootstrap_1.1_iphoneos-arm64.deb
-MD5sum: 93a60259b141c5d8dc8b14cf66f42711
-SHA1: 06d8d5039d9387e6cebba3bb592ff539d4f3ceeb
-SHA256: a2dd59f91d601c7e1a4873f2349b5143c66ddd7c18b0c88f6b19827c3e9f4a22
+Version: 1.2
+Size: 22800
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.2_iphoneos-arm64.deb
+MD5sum: d3b9a76dc1ecff0e0715822e83f13d5f
+SHA1: 1c8856133f60dd14f0f5ec174c2b24dcbe697f75 even
+SHA256: 5d893f0171a597af7dc737a8b7d3c0dc748f57384b7c6de162dc0c01a4f0ea17
