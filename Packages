@@ -1238,3 +1238,18 @@ Filename: ./debs/com.rpetrich.rocketbootstrap_1.2_iphoneos-arm64.deb
 MD5sum: d3b9a76dc1ecff0e0715822e83f13d5f
 SHA1: 1c8856133f60dd14f0f5ec174c2b24dcbe697f75 even
 SHA256: 5d893f0171a597af7dc737a8b7d3c0dc748f57384b7c6de162dc0c01a4f0ea17
+
+Package: com.tntt.darker
+Name: Darker
+Description: Same icons, same style, just darker.
+Depends: firmware (>=15.0)
+Version: 2.9.2
+Architecture: iphoneos-arm64
+Author: tntt
+Maintainer: Mortyick
+Section: Themes
+Size: 8590996
+Filename: ./debs/com.tntt.darker_1.0_iphoneos-arm64.deb
+MD5sum: 2910f79dcb3f65628d3a0fee825dad09
+SHA1: 8bbbffde76e0057caebe9430ab54411bbfbb8e41
+SHA256: f2bc5649e36a443dd468a3b3a5675d43b4db581e33c4d4a8881ce875fd1dbbd9
