@@ -1193,3 +1193,48 @@ Filename: ./debs/com.mortyick.youwarmmyheart_1.0_iphoneos-arm64.deb
 MD5sum: a9632951e5f31eeb0b01c3bc40ce5db2
 SHA1: 444857d85465826543ca3a676e461a59ea4b2dda
 SHA256: 48de76ba0759080ee3164b35b7fb217abb3c7bcdc29fc3f01c224ffcbf41b5b0
+
+Package: com.samgisaninja.mcsplash
+Name: Bedrock
+Description: Minecraft splashes on your lock screen
+Architecture: iphoneos-arm64
+Author: Samg_is_a_Ninja
+Maintainer: Samg_is_a_Ninja
+Depends: firmware (>=15.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Section: Tweaks
+Version: 1.1.1
+Size: 444572
+Filename: ./debs/applist_1.6_iphoneos-arm64.deb
+MD5sum: 177c04d2c8797ef5eb0da98edc5cb156
+SHA1: 8544bd27d261a34a0bb7cddaccb56ff8782af88e
+SHA256: a41f5add1c79f10451f8a81efe96d8e37f0b7cff8edde1dc7a06943951a2e9c6
+
+Package: applist
+Name: AppList
+Version: 1.6
+Description: Allow extensions to read the list of installed apps
+Depends: firmware (>=14.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Section: Tweaks
+Architecture: iphoneos-arm64
+Author: Ryan Petrich
+Maintainer: Ryan Petrich
+Size: 47676
+Filename: ./debs/applist_1.6_iphoneos-arm64.deb
+MD5sum: eb607db506f335a85208ee425cd16577
+SHA1: c827f2a4e5e950e3a53c650b238c26471249402e
+SHA256: d40e416ab2ce515391ffad9147d920adaf5046e8af91182442d576a1797af8c7
+
+Package: com.rpetrich.rocketbootstrap
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Name: RocketBootstrap
+Architecture: iphoneos-arm64
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Maintainer: Mortyick
+Author: Ryan Petrich
+Section: Tweaks
+Version: 1.1
+Size: 22804
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.1_iphoneos-arm64.deb
+MD5sum: 93a60259b141c5d8dc8b14cf66f42711
+SHA1: 06d8d5039d9387e6cebba3bb592ff539d4f3ceeb
+SHA256: a2dd59f91d601c7e1a4873f2349b5143c66ddd7c18b0c88f6b19827c3e9f4a22
