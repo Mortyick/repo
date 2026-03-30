@@ -276,10 +276,10 @@ Depends: firmware (>=14.0)
 Author: Mortyick
 Maintainer: Mortyick
 Filename: ./debs/com.mortyick.gaegu_1.3_iphoneos-arm.deb
-Size: 216812
-MD5sum: 7cbc6d4816d4e450325ccf995a26884d
-SHA1: b4bdae8ea12f548eff93d0fe8ae70f771af3b020
-SHA256: 15e3a9d0d37cdb4f1a9b6a90a87c796d900c4f7b2a931c9ac71d7658c53c639d
+Size: 301988
+MD5sum: e83b5edcdc73080d85477c40fffe2c96
+SHA1: 7db66dcd8e818f786a3ffabfa77f6ad51b2edb95
+SHA256: 27d382f3f8eceaa35f417e87a7af72e63fa53c2cefdf7779d8995e655c4c0641
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 
 Package: com.mortyick.gaegu
