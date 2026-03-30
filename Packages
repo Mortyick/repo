@@ -276,10 +276,10 @@ Depends: firmware (>=14.0)
 Author: Mortyick
 Maintainer: Mortyick
 Filename: ./debs/com.mortyick.gaegu_1.3_iphoneos-arm.deb
-Size: 301988
-MD5sum: e83b5edcdc73080d85477c40fffe2c96
-SHA1: 7db66dcd8e818f786a3ffabfa77f6ad51b2edb95
-SHA256: 27d382f3f8eceaa35f417e87a7af72e63fa53c2cefdf7779d8995e655c4c0641
+Size: 216736
+MD5sum: 3f93000e667e1cbf0281f2771164938b
+SHA1: b7760a15030f7a936aa18f1669905a933d4d4bf2
+SHA256: 3513ca6d77511692f7e2ef361085cb2ff74251c5089c0a371126ba5631d9abae
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 
 Package: com.mortyick.gaegu
@@ -292,10 +292,10 @@ Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
 Filename: ./debs/com.mortyick.gaegu_1.3_iphoneos-arm64.deb
-Size: 215840
-MD5sum: 190254b2896aa3ae53bf92017a8e6e08
-SHA1: 0b74af745e01ba02dd858c0264e15c4175fd5ef5
-SHA256: 838e8c0c5a173351831d8b74441ea36044156d6a3c8c7d4edb05731655a7abd6
+Size: 216592
+MD5sum: 8f81749036f5785049bcd8f24eaf8f41
+SHA1: e9854caf9b5c3e1394239921ce5d7c6d016b6a29
+SHA256: e2c3b6a80ce05cc6104647037d6d6bc24e14bf8d6e74bae81de4101edfa3ee45
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
 
 Package: com.mortyick.wiivamp
@@ -729,10 +729,10 @@ Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
 Filename: ./debs/com.mortyick.chococooky_1.0_iphoneos-arm64.deb
-Size: 1992440
-MD5sum: abf25f72a1670e0e9567825d51341710
-SHA1: e87a7c475f5e9633131d075e8a386ca328ee70bf
-SHA256: 1e7c51e02d808c90bc80cf550965e95dd4381cf945b537d759d6f2db865f6a36
+Size: 1739560
+MD5sum: d55daa7e0afa43a209dd0119729c56e4
+SHA1: a79a70cbf607a5d4f210f9507a3b3f0ec3a95cd0
+SHA256: bbce903b3ff9172bfa8d8d2638316c62f4a8f04f61bc77cb7c26a701a41eacde
 Sileodepiction: https://mortyick.github.io/repo/depictions/Choco/Cooky.json
 
 Package: com.mortyick.adonis
@@ -760,10 +760,10 @@ Depends: firmware (>=14.0)
 Author: Mortyick
 Maintainer: Mortyick
 Filename: ./debs/com.mortyick.chococooky_1.0_iphoneos-arm.deb
-Size: 1992584
-MD5sum: c7d06855e7fb79b9f0436b5e8aaf6eb0
-SHA1: 6b9898637a8c0e0304ae3bc58c1d5459db7df1cd
-SHA256: 6b9e7c59b05c5c67a02aada70ea185c776e42e78a74e2473a069afec1206a39c
+Size: 1739744
+MD5sum: 215f30c2c5dc816ce959391e23279003
+SHA1: a43c0c2da4f41338d471e85429f68effe3d776fa
+SHA256: ee8ef68f4fc129cccedc7f5fce716d9e759a39c2656ea06767d59cb6669eb5fc
 Sileodepiction: https://mortyick.github.io/repo/depictions/Choco/Cooky.json
 
 Package: com.mortyick.pseudo
@@ -1188,11 +1188,11 @@ Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
 Sileodepiction: https://mortyick.github.io/repo/depictions/warmth/Heart.json
-Size: 88284
+Size: 88244
 Filename: ./debs/com.mortyick.youwarmmyheart_1.0_iphoneos-arm64.deb
-MD5sum: 3e052e2772568b9a8a313c383db1c543
-SHA1: 07cd4b48b5817bd3193d7c99c6c958009898a8cc
-SHA256: b3aafb477774a183e91297e440d6f3b10526edd26062e71c604443658ba3ad43
+MD5sum: e68c18534229c355f51d162a6f951448
+SHA1: a930d4d1d39cb23c104cb46d3721fd67bdfe968d
+SHA256: 3442babef6586cefa9e1baa9bb853feeb9427b1c92527da1d2a285b8b3aac9e0
 
 Package: com.samgisaninja.mcsplash
 Name: Bedrock
@@ -1264,8 +1264,8 @@ Depends: firmware (>=14.0)
 Author: Mortyick
 Maintainer: Mortyick
 Sileodepiction: https://mortyick.github.io/repo/depictions/warmth/Heart.json
-Size: 88296
+Size: 88240
 Filename: ./debs/com.mortyick.youwarmmyheart_1.0_iphoneos-arm.deb
-MD5sum: a64595c5746de73463436ee3b04f4812
-SHA1: fbb4750316dc2d545085170f782c4bdf308d4ed3
-SHA256: 3412cf5f56d1eb1630ce26579df597dbcbe06f8970d2f9e82ff3c923c0e442a1
+MD5sum: e2eab87f6bc22334d9a21861a749018a
+SHA1: 2416050bfe36a96711c977b9822302ac546e32c7
+SHA256: b2f90afe314067ef3ebd0ae8c9a3c9206e09bc75770d227aa74eeb4703eef5d9
