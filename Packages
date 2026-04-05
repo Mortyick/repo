@@ -1269,3 +1269,18 @@ Filename: ./debs/com.mortyick.youwarmmyheart_1.0_iphoneos-arm.deb
 MD5sum: e2eab87f6bc22334d9a21861a749018a
 SHA1: 2416050bfe36a96711c977b9822302ac546e32c7
 SHA256: b2f90afe314067ef3ebd0ae8c9a3c9206e09bc75770d227aa74eeb4703eef5d9
+
+Package: com.johnzaro.networkspeed13
+Name: PerfectNetworkSpeedInfo
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0)
+Description: Shows upload & download speed in the status bar
+Maintainer: Johnzaro, 34306
+Author: Johnzaro, 34306
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 3.0.2
+Size: 518896
+Filename: ./debs/com.johnzaro.networkspeed13_3.0.2_iphoneos-arm64.deb
+MD5sum: a5fa35417bcb027953078123fb1cb5db
+SHA1: 91e6e18eaa4d5901d7eaddf0189216a84674d5ba
+SHA256: 6444d435a9f692e4c254b95c96cb08ef94a50871c76bd3b9328bb2e26e24f1f3
