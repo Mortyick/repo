@@ -1269,3 +1269,18 @@ Filename: ./debs/com.johnzaro.networkspeed13_3.0.2_iphoneos-arm64.deb
 MD5sum: a5fa35417bcb027953078123fb1cb5db
 SHA1: 91e6e18eaa4d5901d7eaddf0189216a84674d5ba
 SHA256: 6444d435a9f692e4c254b95c96cb08ef94a50871c76bd3b9328bb2e26e24f1f3
+
+Package: com.creaturesurvive.libcscolorpicker
+Depends: firmware (>=15.0), firmware (<=16.0), applist, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Name: libCSColorPicker
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: A minimal color picker library for developers
+Maintainer: Mortyick
+Author: CreatureSurvive
+Section: Development
+Size: 40172
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
+MD5sum: 3d8203fa917191c82e7a5b8260c2e036
+SHA1: cf5c4dea2ef41ac335087b17eafd3df0d67c062f
+SHA256: f9b9e748576c3602619d8ee9e0947be420946c3228f339db2e4f91e2ddb2fbc6
