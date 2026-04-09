@@ -424,13 +424,14 @@ Description: Android Lockscreen
 Maintainer: alimaulana
 Author: alimaulana
 Section: Tweaks
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, com.rpgfarm.groupingaxon, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.peterdev.grupi, com.ginsu.dodo, com.junesiphone.designer
 Depends: mobilesubstrate, firmware (>=15.0), com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), com.peterdev.libpddokdo, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Version: 1.0.1
-Size: 148084
-Filename: ./debs/com.ali.waktos_1.0.1_iphoneos-arm64.deb
-MD5sum: 6f9f97030504f87e27978a6a78b72bb3
-SHA1: 5f6fd1724b4588b27622b79d2365b24f65b5983f
-SHA256: 74112ce292e7fb353627f4ddd4b643f5cef5ff6a76379954682e38931ecc69c3
+Version: 1.1
+Size: 148188
+Filename: ./debs/com.ali.waktos_1.1_iphoneos-arm64.deb
+MD5sum: 6f67a9067a62f423fe4b1d1dc7c6a232
+SHA1: fee7535a356593c872edbbbb9bf65c28bf5977db
+SHA256: c2215ac85d7299ee65bbeee90eeb94eadb39a9b2a550cf3c38fb3f8401f40300
 
 Package: com.samgisaninja.snell
 Name: snell
