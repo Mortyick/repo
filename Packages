@@ -447,21 +447,6 @@ MD5sum: 17f0c6d8d791319e2f15e88d2aab65a1
 SHA1: eeae658dc9369e1d9d6c4b19c8b15bc235474732
 SHA256: a43086c71cff244bd26a5b905a1eb5f1e116aa72cda6b1e516196636daefa6cd
 
-Package: com.creaturesurvive.libcscolorpicker
-Name: libCSColorPicker
-Architecture: iphoneos-arm64
-Description: A minimal color picker library for developers
-Maintainer: Mortyick
-Author: CreatureSurvive
-Section: Tweaks
-Depends: firmware (>=15.0), applist, cy+cpu.arm64v8 | oldabi-xina | oldabi
-Version: 1.0
-Size: 40212
-Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
-MD5sum: 656d392957254c319b76b8fbb005500a
-SHA1: 9e85c0b5c06331b9d98ea98c7bee6ea10c274bf6
-SHA256: 9a0c8e18671c5fa8d6a693e2ec827359432e52c59a91eadf2f0dee3c564af838
-
 Package: com.sourceloc.iconexporter
 Name: IconExporter
 Architecture: iphoneos-arm64
