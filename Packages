@@ -549,11 +549,12 @@ Architecture: iphoneos-arm64
 Author: Mortyick
 Maintainer: Mortyick
 Version: 1.1
-Size: 6135000
+Size: 6135048
 Filename: ./debs/com.mortyick.onyx_1.1_iphoneos-arm64.deb
-MD5sum: ef5b57a5db6db874faca75c7c7cf9114
-SHA1: 99ad92db4faf63cfda0267628ccc56ba56d92eb6
-SHA256: b364136dbbf7b286abacb83d0a219adc23a6a424fbb2584e9d028f13aff2980f
+MD5sum: 0274f2c1e5db5d52c8614802d443985c
+SHA1: cbb5a9f58ac1f9fb635f356a81bb29c6a037ebfc
+SHA256: 2a158b2418023c34009b600aeaccbe7c35596f08ab1045e54520883d773a71fc
+Sileodepiction: https://mortyick.github.io/repo/depictions/onyx/Onyx.json
 
 Package: com.mortyick.bebopkeys
 Name: BebopKeys
@@ -599,6 +600,7 @@ Filename: ./debs/com.mortyick.onyx_1.1_iphoneos-arm.deb
 MD5sum: f84bba3ffe69d587f40c174093d98457
 SHA1: 588130d0b015cc8414c87aa2a5224c20eb43d8d4
 SHA256: 9d4e45c51e7984ad3a3b0a9e6155be7a2f48fd0ac320f165a88fb8b84e008c4e
+Sileodepiction: https://mortyick.github.io/repo/depictions/onyx/Onyx.json
 
 Package: com.mortyick.odyessy
 Name: Odyessy
@@ -624,11 +626,12 @@ Architecture: iphoneos-arm64
 Author: Mortyick
 Maintainer: Mortyick
 Version: 1.0
-Size: 2022536
+Size: 2022544
 Filename: ./debs/com.mortyick.dune2099_1.0_iphoneos-arm64.deb
-MD5sum: 019822dfdedca9c0df694310b86b1d29
-SHA1: 879f06a9d66235e729311fef239ef8e396a11a31
-SHA256: a939cfd558cde82e1905a787c33255361b8e3409e1ae3f862cb3bae63a4e19ce
+MD5sum: ea70ad5171be7644d19a1ae049559841
+SHA1: 7f189abebc90110695714dd7eefc1210b2accba5
+SHA256: 9fc5cf2f8a8ac40e448c4ffb6e046be162003cc42f9ac8f31cdc9233ec54ba9b
+Sileodepiction: https://mortyick.github.io/repo/depictions/dune/2099.json
 
 Package: com.mortyick.stratophere
 Name: Stratophere
