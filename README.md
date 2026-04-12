@@ -4,6 +4,9 @@ i wouldnt use this if i were you
 
 if you feel the need to archive some DEBs, go ahead, because you never know when this repo might get drone striked :)
 
+# Note for Laetus Themes
+There are only 812h/896h 3x themes (designed for notched devices), use the height spoofer option if necessary.
+
 # stuff that (probably) doesn't work (properly):
 
 wiivamp: lags a lot on ios 16, at least on my device, needs more testing
