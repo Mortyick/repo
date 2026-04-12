@@ -566,10 +566,11 @@ Depends: firmware (>=15.0), com.spark.laetus
 Author: Mortyick
 Maintainer: Mortyick
 Filename: ./debs/com.mortyick.bebopkeys_1.0_iphoneos-arm64.deb
-Size: 149752
-MD5sum: de55868e279234e8a5b3debe0e574348
-SHA1: 17cfad13864b4add6d06fc2b8483d03453be179f
-SHA256: 7a5e4ab68ef293e6fe6c2076acccee420ef22ec5bf06a5633fdbffbae294af37
+Size: 149808
+MD5sum: 61fbdfd0909029ae1d2ac6d5d0dfd961
+SHA1: e9e35c25713c4aafea514f50612d4d2f6ee3d9d6
+SHA256: dbe73fa0cc83e4e2eb70af07637a40872575c379e974759dacf53c69e81f0396
+Sileodepiction: https://mortyick.github.io/repo/depictions/beep/Boop.json
 
 Package: com.mortyick.bebopkeys
 Name: BebopKeys
@@ -585,6 +586,7 @@ Size: 149712
 MD5sum: d9904d9b30353f43022a7c6625c02cde
 SHA1: b653edbcd9ce3ea4e55b82ad19310c34c48eb840
 SHA256: bfdd3f005ec06ef6f0d8d20929675ecc3d149bea1977b8b9da2fe5ff65d36642
+Sileodepiction: https://mortyick.github.io/repo/depictions/beep/Boop.json
 
 Package: com.mortyick.onyx
 Name: Onyx
@@ -602,20 +604,21 @@ SHA1: 588130d0b015cc8414c87aa2a5224c20eb43d8d4
 SHA256: 9d4e45c51e7984ad3a3b0a9e6155be7a2f48fd0ac320f165a88fb8b84e008c4e
 Sileodepiction: https://mortyick.github.io/repo/depictions/onyx/Onyx.json
 
-Package: com.mortyick.odyessy
-Name: Odyessy
-Description: Odyessy for Laetus
+Package: com.mortyick.odyssey
+Name: Odyssey
+Description: Odyssey for Laetus
 Section: Laetus Themes
 Depends: firmware (>=15.0), com.spark.laetus
 Architecture: iphoneos-arm64
 Author: Mortyick
 Maintainer: Mortyick
 Version: 1.0
-Size: 1706508
-Filename: ./debs/com.mortyick.odyessy_1.0_iphoneos-arm64.deb
-MD5sum: 94837c6442e2af8c07c2c19e975ab84e
-SHA1: 48da34e605017b97b5bc0841dea20bd6699b801e
-SHA256: 6c613daa937c242750ad311741e672315e643f5e2c8e98402770e5280d4e1150
+Size: 1712696
+Filename: ./debs/com.mortyick.odyssey_1.0_iphoneos-arm64.deb
+MD5sum: a38bc8181abf44899a29cb1651b85f93
+SHA1: e7fce6a333db29689cd43e0767ce8d727b0604bd
+SHA256: 91818d28ad6e104ea9694f167852d05abdf04b0803da3ab3c7607052b428a21b
+Sileodepiction: https://mortyick.github.io/repo/depictions/supar/Mayonnaise.json
 
 Package: com.mortyick.dune2099
 Name: Dune2099
@@ -642,11 +645,12 @@ Architecture: iphoneos-arm64
 Author: Mortyick
 Maintainer: Mortyick
 Version: 1.1
-Size: 191664 
+Size: 191708
 Filename: ./debs/com.mortyick.stratophere_1.1_iphoneos-arm64.deb
-MD5sum: 2f9c08c7046587b2d8df2828192e14b4
-SHA1: 8cf5eb7ff38598673d1fb0430c1f87c18df3468e
-SHA256: 3f28a41ad1ab71560c1fd4ad1b92cdfe1787b83146d1aa9b4dd76ce1eb008e79
+MD5sum: bbc8e6e0c44e9f96e9f353c0280b3909
+SHA1: ec2e1d0f584bcec39885d260d0b49256bbd11092
+SHA256: 546f83139c106a77d89861a72ea9f45b0ab088da77f39ad9b75f751b1907a674
+Sileodepiction: https://mortyick.github.io/repo/depictions/Atmosphere/Skye.json
 
 Package: com.mortyick.luc
 Name: Luc
@@ -1289,3 +1293,19 @@ Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm64.deb
 MD5sum: 3d8203fa917191c82e7a5b8260c2e036
 SHA1: cf5c4dea2ef41ac335087b17eafd3df0d67c062f
 SHA256: f9b9e748576c3602619d8ee9e0947be420946c3228f339db2e4f91e2ddb2fbc6
+
+Package: com.mortyick.ganymede
+Name: Ganymede
+Architecture: iphoneos-arm64
+Description: Ganymede for Laetus
+Version: 1.0
+Section: Laetus Themes
+Depends: firmware (>=15.0), com.spark.laetus
+Author: Mortyick
+Maintainer: Mortyick
+Sileodepiction: https://mortyick.github.io/repo/depictions/ganymede/Meth.json
+Size: 3316868
+Filename: ./debs/com.mortyick.stratophere_1.1_iphoneos-arm64.deb
+MD5sum: d18969a97cd2dca33ea981020dca0ff4
+SHA1: 8ed3be1aeee6c9c345363af9b3d8b89e61c1b4a9
+SHA256: 48e687879033ca6c03ca073d2c81dff85948027b780fa3d8be7f2485025b80de
