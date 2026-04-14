@@ -652,21 +652,6 @@ SHA1: ec2e1d0f584bcec39885d260d0b49256bbd11092
 SHA256: 546f83139c106a77d89861a72ea9f45b0ab088da77f39ad9b75f751b1907a674
 Sileodepiction: https://mortyick.github.io/repo/depictions/Atmosphere/Skye.json
 
-Package: com.mortyick.luc
-Name: Luc
-Description: A collection of HTML themes for Laetus
-Section: Laetus Themes
-Depends: firmware (>=15.0), com.spark.laetus
-Architecture: iphoneos-arm64
-Author: Mortyick
-Maintainer: Mortyick
-Version: 1.0
-Size: 1350200
-Filename: ./debs/com.mortyick.luc_1.0_iphoneos-arm64.deb
-MD5sum: 1e47453c23c8f3e2dedd4bdfc5a13726
-SHA1: baf2009cfba0ecc84a9a95cb37b152baa78641ef
-SHA256: 212512be565186a4f92d607f999244509e4cc35e854822ece81f58922b675876
-
 Package: com.mortyick.fungus16
 Name: Fungus16
 Description: An untethered jailbreak for iOS 16.0 - 16.5
@@ -1305,7 +1290,71 @@ Author: Mortyick
 Maintainer: Mortyick
 Sileodepiction: https://mortyick.github.io/repo/depictions/ganymede/Meth.json
 Size: 3316868
-Filename: ./debs/com.mortyick.stratophere_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.mortyick.ganymede_1.0_iphoneos-arm64.deb
 MD5sum: d18969a97cd2dca33ea981020dca0ff4
 SHA1: 8ed3be1aeee6c9c345363af9b3d8b89e61c1b4a9
 SHA256: 48e687879033ca6c03ca073d2c81dff85948027b780fa3d8be7f2485025b80de
+
+Package: com.mortyick.bigsur
+Name: Big Sur
+Architecture: iphoneos-arm64
+Description: Big Sur for Laetus
+Author: Mortyick
+Maintainer: Mortyick
+Depends: firmware (>=15.0), com.spark.laetus
+Version: 1.0
+Section: Laetus Themes
+Sileodepiction: https://mortyick.github.io/repo/depictions/big/sur.json
+Size: 94196
+Filename: ./debs/com.mortyick.bigsur_1.0_iphoneos-arm64.deb
+MD5sum: 71ea56d1e0b71824ec4253c8279705e8
+SHA1: 0858889f9c610fd01d9475ebc508572574b596da
+SHA256: db1c4b5a690545fb3cc7b3f04f3ab4d725779896aa9983a94525cd50e1a2dd2f
+
+Package: com.mortyick.midnightspecial
+Name: MidnightSpecial
+Architecture: iphoneos-arm64
+Description: MidnightSpecial for Laetus
+Author: Mortyick
+Maintainer: Mortyick
+Depends: firmware (>=15.0), com.spark.laetus
+Version: 1.0
+Section: Laetus Themes
+Sileodepiction: https://mortyick.github.io/repo/depictions/midnight/special.json
+Size: 561728
+Filename: ./debs/com.mortyick.midnightspecial_1.0_iphoneos-arm64.deb
+MD5sum: 12840ab7a72ce068f40d4e874d2854d7
+SHA1: 9991261157bfe124d6ff950abd2f02cfae46016e
+SHA256: 0e7fe562bea4e1f600f9394f80fade41909f0eac66f3c5104fab4dab159980c6
+
+Package: com.mortyick.starfall
+Name: Starfall
+Architecture: iphoneos-arm64
+Description: Starfall for Laetus
+Author: Mortyick
+Maintainer: Mortyick
+Depends: firmware (>=15.0), com.spark.laetus
+Version: 1.0
+Section: Laetus Themes
+Sileodepiction: https://mortyick.github.io/repo/depictions/starfall/starz.json
+Size: 17878480
+Filename: ./debs/com.mortyick.starfall_1.0_iphoneos-arm64.deb
+MD5sum: e4f54ca0edc30d9e92752dc79ee52e09
+SHA1: ece4385503e2e0296b1db2c9ee547cd2c4791219
+SHA256: 5482d9138c180ef2f8fa7853635d2fa6d88e7dbf4546fb993055a0f2ae324116
+
+Package: com.mortyick.dreamland
+Name: Dreamland
+Architecture: iphoneos-arm64
+Description: Dreamland for Laetus
+Author: Mortyick
+Maintainer: Mortyick
+Depends: firmware (>=15.0), com.spark.laetus
+Version: 1.0
+Section: Laetus Themes
+Sileodepiction: https://mortyick.github.io/repo/depictions/dream/land.json
+Size: 179376
+Filename: ./debs/com.mortyick.dreamland_1.0_iphoneos-arm64.deb
+MD5sum: 09aa34bf38ae7808a66b140a2a1e9e0e
+SHA1: 3ab7fa91000e570562200652e3b5bfdb7f92131f
+SHA256: bdc6d15e5a872b34637f30d820326545035348281e102d22c6df3119931b827d
