@@ -119,6 +119,7 @@ MD5sum: 728ca7f3971f82dc48e952bd7c75036e
 SHA1: 9caa1b3bac6b758a74fc560371471c7be4ba4c7c
 SHA256: d0837ec18692cf8f6c37608657917be671f69ce23788e4eb18905b5e6540dc8b
 Filename: ./debs/dr.erast.violet_1.2_iphoneos-arm64.deb
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/violeticon.png
 
 Package: com.miro.liblottie
 Name: libLottie
@@ -281,6 +282,7 @@ MD5sum: 3f93000e667e1cbf0281f2771164938b
 SHA1: b7760a15030f7a936aa18f1669905a933d4d4bf2
 SHA256: 3513ca6d77511692f7e2ef361085cb2ff74251c5089c0a371126ba5631d9abae
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 
 Package: com.mortyick.gaegu
 Architecture: iphoneos-arm64
@@ -297,6 +299,7 @@ MD5sum: 8f81749036f5785049bcd8f24eaf8f41
 SHA1: e9854caf9b5c3e1394239921ce5d7c6d016b6a29
 SHA256: e2c3b6a80ce05cc6104647037d6d6bc24e14bf8d6e74bae81de4101edfa3ee45
 Sileodepiction: https://mortyick.github.io/repo/depictions/Gaecord/Gaecord.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 
 Package: com.mortyick.wiivamp
 Name: Wiivamp
@@ -555,6 +558,7 @@ MD5sum: 0274f2c1e5db5d52c8614802d443985c
 SHA1: cbb5a9f58ac1f9fb635f356a81bb29c6a037ebfc
 SHA256: 2a158b2418023c34009b600aeaccbe7c35596f08ab1045e54520883d773a71fc
 Sileodepiction: https://mortyick.github.io/repo/depictions/onyx/Onyx.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/onyxicon.png
 
 Package: com.mortyick.bebopkeys
 Name: BebopKeys
@@ -603,6 +607,7 @@ MD5sum: f84bba3ffe69d587f40c174093d98457
 SHA1: 588130d0b015cc8414c87aa2a5224c20eb43d8d4
 SHA256: 9d4e45c51e7984ad3a3b0a9e6155be7a2f48fd0ac320f165a88fb8b84e008c4e
 Sileodepiction: https://mortyick.github.io/repo/depictions/onyx/Onyx.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/onyxicon.png
 
 Package: com.mortyick.odyssey
 Name: Odyssey
@@ -712,6 +717,7 @@ MD5sum: d55daa7e0afa43a209dd0119729c56e4
 SHA1: a79a70cbf607a5d4f210f9507a3b3f0ec3a95cd0
 SHA256: bbce903b3ff9172bfa8d8d2638316c62f4a8f04f61bc77cb7c26a701a41eacde
 Sileodepiction: https://mortyick.github.io/repo/depictions/Choco/Cooky.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 
 Package: com.mortyick.adonis
 Architecture: iphoneos-arm64
@@ -743,6 +749,7 @@ MD5sum: 215f30c2c5dc816ce959391e23279003
 SHA1: a43c0c2da4f41338d471e85429f68effe3d776fa
 SHA256: ee8ef68f4fc129cccedc7f5fce716d9e759a39c2656ea06767d59cb6669eb5fc
 Sileodepiction: https://mortyick.github.io/repo/depictions/Choco/Cooky.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 
 Package: com.mortyick.pseudo
 Name: pseudo
@@ -1171,6 +1178,7 @@ Filename: ./debs/com.mortyick.youwarmmyheart_1.0_iphoneos-arm64.deb
 MD5sum: e68c18534229c355f51d162a6f951448
 SHA1: a930d4d1d39cb23c104cb46d3721fd67bdfe968d
 SHA256: 3442babef6586cefa9e1baa9bb853feeb9427b1c92527da1d2a285b8b3aac9e0
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 
 Package: com.samgisaninja.mcsplash
 Name: Bedrock
@@ -1248,6 +1256,7 @@ Filename: ./debs/com.mortyick.youwarmmyheart_1.0_iphoneos-arm.deb
 MD5sum: e2eab87f6bc22334d9a21861a749018a
 SHA1: 2416050bfe36a96711c977b9822302ac546e32c7
 SHA256: b2f90afe314067ef3ebd0ae8c9a3c9206e09bc75770d227aa74eeb4703eef5d9
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 
 Package: com.johnzaro.networkspeed13
 Name: PerfectNetworkSpeedInfo
@@ -1358,4 +1367,3 @@ Filename: ./debs/com.mortyick.dreamland_1.0_iphoneos-arm64.deb
 MD5sum: 09aa34bf38ae7808a66b140a2a1e9e0e
 SHA1: 3ab7fa91000e570562200652e3b5bfdb7f92131f
 SHA256: bdc6d15e5a872b34637f30d820326545035348281e102d22c6df3119931b827d
-Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/CydiaIcon.png
