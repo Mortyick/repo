@@ -1,0 +1,105 @@
+{
+   "class":"DepictionTabView",
+   "minVersion":"0.4",
+   "headerImage":"https://mortyick.github.io/repo/depictions/Gaecord/header.png",
+   "tintColor": "#cde2f4",
+   "tabs":[
+      {
+         "class":"DepictionStackView",
+         "tabname":"Details",
+         "views":[
+            {
+               "class":"DepictionSubheaderView",
+               "title":"pokemon-colorscripts ported to iOS",
+               "useBoldText":true
+            },
+            {
+               "class":"DepictionScreenshotsView",
+               "itemCornerRadius":6,
+               "itemSize":"{160, 346}",
+               "screenshots":[
+                  {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://mortyick.github.io/repo/depictions/color/mew.png"
+                  }
+               ]
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Description"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown": "this only goes up to SV lol",
+               "useSpacing":true
+            },
+            {
+               "class":"DepictionHeaderView",
+               "title":"Information"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Version",
+               "text":"1.0"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Size",
+               "text":"26 KB"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"Updated",
+               "text":"April 18, 2026"
+            },
+            {
+               "class":"DepictionTableTextView",
+               "title":"iOS Versions",
+               "text":"14.0 - 16.6.1"
+            },
+            {
+               "class":"DepictionSpacerView",
+               "spacing":15
+            }
+         ]
+      },
+      {
+         "class":"DepictionStackView",
+         "tabname":"Changelog",
+         "views":[
+            {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"1.0",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"April 18, 2026",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Initial release"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            }
+         ]
+      }
+   ]
+}
