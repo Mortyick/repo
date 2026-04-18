@@ -1236,11 +1236,12 @@ Architecture: iphoneos-arm64
 Author: tntt
 Maintainer: Mortyick
 Section: Themes
-Size: 8590996
-Filename: ./debs/com.tntt.darker_1.0_iphoneos-arm64.deb
-MD5sum: 2910f79dcb3f65628d3a0fee825dad09
-SHA1: 8bbbffde76e0057caebe9430ab54411bbfbb8e41
-SHA256: f2bc5649e36a443dd468a3b3a5675d43b4db581e33c4d4a8881ce875fd1dbbd9
+Size: 7549872
+Filename: ./debs/com.tntt.darker_2.9.2_iphoneos-arm64.deb
+MD5sum: 6e90b69f673729b88d246a3c538dac92
+SHA1: 5abd972fd45ae05cbd1d98d9a2242d596894d320
+SHA256: 535638b675fa0e15958316a01c22ab0d022ff0f1575f1e970f66b702e172d770
+Sileodepiction: https://mortyick.github.io/repo/depictions/darker/screenie.json
 
 Package: com.mortyick.youwarmmyheart
 Architecture: iphoneos-arm
