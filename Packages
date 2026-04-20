@@ -483,7 +483,7 @@ SHA256: f4529e28a6aa93f6ba4e44d8eb20c66fdb4e48360e26614ebb51c6178584ce29
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
-Version: 2.1
+Version: 2.2
 Description: Run HTML widgets on the Lockscreen and Homescreen
 Section: Tweaks
 Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, firmware (<=16.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap, cy+cpu.arm64v8 | oldabi-xina | oldabi
@@ -492,11 +492,11 @@ Priority: Optional
 Architecture: iphoneos-arm64
 Author: Matt Clarke
 Maintainer: Matt Clarke
-Filename: ./debs/com.matchstic.xenhtml_2.1_iphoneos-arm64.deb
-Size: 2603044
-MD5sum: 7ea0d793330e7156a1856389c62d0ae4
-SHA1: ea1de3f6cdaae9b0e7ecbaa71440440173df05db
-SHA256: 3ef8aedd81299a4fe8f3dd8da387b5f6b11b6c77247ee9636371a102415a7461
+Filename: ./debs/com.matchstic.xenhtml_2.2_iphoneos-arm64.deb
+Size: 2605344
+MD5sum: 9b57f5155fad8206f2a4cdbf3e61105f
+SHA1: b88d7837517303f77534d10babc510122bdbba56
+SHA256: c34f594789136dcbdacd4662d580b35f3b6c877d0428426438ba31b276ccfddd
 
 Package: com.mortyick.p5
 Name: Persona 5
