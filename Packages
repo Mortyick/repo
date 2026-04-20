@@ -391,20 +391,6 @@ SHA1: 36619de882f718ad438a6287fdd1c64338159dc2
 SHA256: 57706b1ef10febd87164582bd7f50b160da398bdf33c6f8c398d0c9691b0a67c
 Sileodepiction: https://mortyick.github.io/repo/depictions/Megumin/Megumin.json
 
-Package: com.mortyick.chibi
-Version: 1.0
-Section: Respring Themes
-Maintainer: Mortyick
-Author: Mortyick
-Architecture: iphoneos-arm64
-Name: Chibi
-Description: A Chibi Respring Theme?
-Filename: ./debs/com.mortyick.chibi_1.0_iphoneos-arm64.deb
-Size: 1446236
-MD5sum: d565b070877045c37b1194d4751baf9e
-SHA1: 26736d071779f8c0f9a352fd74384eb941589668
-SHA256: 73073824f5b1c42212e5085f44390fa590fbdf6693f8b6988387523531d11098
-
 Package: com.jacc.wiivamp
 Name: Wiivamp
 Depends: mobilesubstrate, firmware (>=15.0), com.spark.libsparkapplist, ws.hbang.common (>= 1.14), cy+cpu.arm64v8 | oldabi-xina | oldabi
@@ -871,51 +857,6 @@ Filename: ./debs/com.p2kdev.colorbar_1.0_iphoneos-arm64.deb
 MD5sum: 2a63a70d3d6f5c87987546050fe3f1ed
 SHA1: 8510e31520c7ef10134df07b48635b97968087ca
 SHA256: 5f3eec702ed49da77d0f079fc889d1294b82733c08d28e7be174b3877d184455
-
-Package: com.mortyick.dreamworld
-Name: Dreamworld
-Architecture: iphoneos-arm64
-Version: 1.0
-Depends: firmware (>=15.0)
-Description: A port of another MIUI theme called Dreamworld?
-Author: Mortyick
-Maintainer: Mortyick
-Section: Themes
-Size: 507696
-Filename: ./debs/com.mortyick.dreamworld_1.0_iphoneos-arm64.deb
-MD5sum: 50cbbeab9602cb451f454c4a7e5c1b94
-SHA1: f67d5839a17b8d1b541e831ece7b94024d7802c3
-SHA256: d3a0d9eeffd00653dddb68222979249492b387b67e094fa495454f0fe3c99c0b
-
-Package: com.mortyick.dvrktekken
-Name: DVRK Tekken
-Architecture: iphoneos-arm64
-Version: 1.0
-Depends: firmware (>=15.0)
-Description: A port of MIUI theme called DVRK Tekken...?
-Author: Mortyick
-Maintainer: Mortyick
-Section: Themes
-Size: 592576
-Filename: ./debs/com.mortyick.dvrktekken_1.0_iphoneos-arm64.deb
-MD5sum: 2136090a204713c70840c4d56bd684fd
-SHA1: 1afdc5f0c73580e204abac7afa6fb04915b6aee9
-SHA256: bed6dc626b0d8aa468fb2e89d510ae73e1d25eba222b4b1f199dd8987ad4ce6c
-
-Package: com.mortyick.persona5
-Name: Persona5
-Architecture: iphoneos-arm64
-Version: 1.0
-Depends: firmware (>=15.0)
-Description: A Persona 5 theme for iOS!
-Author: Mortyick
-Maintainer: Mortyick
-Section: Themes
-Size: 2410476
-Filename: ./debs/com.mortyick.persona5_1.0_iphoneos-arm64.deb
-MD5sum: d86b637dd44c9fb319edb2626025fe06
-SHA1: bac01875927f3244360b728cb7db0b25376aa880
-SHA256: c3fd5331e4c129abaf3e6f23dc3f983d0455e2fe3cc28bc454159bf3b518adf2
 
 Package: com.mortyick.hutao
 Name: Hu Tao
