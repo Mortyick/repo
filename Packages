@@ -1310,3 +1310,34 @@ Filename: ./debs/com.mortyick.dreamland_1.0_iphoneos-arm64.deb
 MD5sum: 09aa34bf38ae7808a66b140a2a1e9e0e
 SHA1: 3ab7fa91000e570562200652e3b5bfdb7f92131f
 SHA256: bdc6d15e5a872b34637f30d820326545035348281e102d22c6df3119931b827d
+
+Package: com.Polyphian.SixyNyx
+Name: Sixy Nyx
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Sixy Nyx for Laetus
+Section: Laetus Themes
+Author: Polyphian
+Maintainer: Polyphian
+Sileodepiction: https://mortyick.github.io/repo/depictions/six/eight.json
+Size: 12421548
+Filename: ./debs/com.Polyphian.SixyNyx_1.0_iphoneos-arm64.deb
+MD5sum: 03137f2cbb356792f6aeaa31ceec9f41
+SHA1: d346f5073851ce6ff9231e4439f46d22cb01e7d5
+SHA256: 7e8efb4c8f5be29a711e3b86016e54194b679ae96fd34e41ad8b9c8cfa14e4e3
+
+Package: com.Polyphian.Dustry
+Name: Dustry
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Keyboard theme for Laetus
+Section: Laetus Themes
+Author: Polyphian
+Maintainer: Polyphian
+Sileodepiction: https://mortyick.github.io/repo/depictions/Dust/Brown.json
+Icon: https://polyphian.github.io/repo/icons/Dustry.png
+Size: 7672308
+MD5sum: 04c8135c3f7a88957ce50a9fac7e950f
+SHA1: 180a7a9365ff1c4cf203341d2148d0188abf2a86
+SHA256: 1947c7e3415f97bd677cf2ae8aeb4c5e1fcb5ec8bacb7530bb23de16e0a81e4a
+Filename: ./debs/com.Polyphian.Dustry_1.0_iphoneos-arm64.deb
