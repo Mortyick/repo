@@ -13,8 +13,6 @@ wiivamp: lags a lot on ios 16, at least on my device, needs more testing
 
 snell: same as wiivamp, installation is blocked on iOS 16
 
-XenHTML: doesn't work on iOS 16, use Designer instead
-
 IconRenamer: doesn't work on 16
 
 OwO: doesn't seem to work properly
