@@ -1325,3 +1325,4 @@ Filename: ./debs/com.mortyick.varelaround_1.0_iphoneos-arm64.deb
 MD5sum: a5ea9d98609cf26b05d33fa5e5479f48
 SHA1: 5bed3bd0d4aeb5399f7838e15200d581b9543b85
 SHA256: da591640d775ceda69f35b6bb1d32695749ad5355a8d2b32888102186b13d996
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
