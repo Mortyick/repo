@@ -1309,3 +1309,19 @@ MD5sum: 04c8135c3f7a88957ce50a9fac7e950f
 SHA1: 180a7a9365ff1c4cf203341d2148d0188abf2a86
 SHA256: 1947c7e3415f97bd677cf2ae8aeb4c5e1fcb5ec8bacb7530bb23de16e0a81e4a
 Filename: ./debs/com.Polyphian.Dustry_1.0_iphoneos-arm64.deb
+
+Package: com.mortyick.varelaround
+Architecture: iphoneos-arm64
+Name: Varela Round
+Version: 1.0
+Description: Half-assed port of Varela Round
+Section: Fonts
+Depends: firmware (>=15.0)
+Author: Mortyick
+Maintainer: Mortyick
+Sileodepiction: https://mortyick.github.io/repo/depictions/Valerie/Valiant.json
+Size: 134856
+Filename: ./debs/com.mortyick.varelaround_1.0_iphoneos-arm64.deb
+MD5sum: a5ea9d98609cf26b05d33fa5e5479f48
+SHA1: 5bed3bd0d4aeb5399f7838e15200d581b9543b85
+SHA256: da591640d775ceda69f35b6bb1d32695749ad5355a8d2b32888102186b13d996
