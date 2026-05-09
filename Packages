@@ -1326,3 +1326,18 @@ MD5sum: a5ea9d98609cf26b05d33fa5e5479f48
 SHA1: 5bed3bd0d4aeb5399f7838e15200d581b9543b85
 SHA256: da591640d775ceda69f35b6bb1d32695749ad5355a8d2b32888102186b13d996
 Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
+
+Package: com.p2kdev.swipetoreply
+Section: Tweaks
+Maintainer: P2KDev
+Architecture: iphoneos-arm64
+Version: 1.1
+Depends: mobilesubstrate
+Description: Swipe to reply in Messages!
+Name: SwipeToReply
+Author: P2KDev
+Size: 13608
+Filename: ./debs/com.p2kdev.swipetoreply_1.1_iphoneos-arm64.deb
+MD5sum: c7a7d98bd07e4afc82ee090aa3a5cf9f
+SAH1: 060f6b693feb3e677cd5f41b35e957f5ea25debb
+SHA256: 735cf8ac0e37dba19da8d8162036d852e3a9b67092b7133e80c3131d65863835
