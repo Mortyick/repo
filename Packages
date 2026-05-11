@@ -1341,3 +1341,19 @@ Filename: ./debs/com.p2kdev.swipetoreply_1.1_iphoneos-arm64.deb
 MD5sum: c7a7d98bd07e4afc82ee090aa3a5cf9f
 SAH1: 060f6b693feb3e677cd5f41b35e957f5ea25debb
 SHA256: 735cf8ac0e37dba19da8d8162036d852e3a9b67092b7133e80c3131d65863835
+
+Package: com.milkyway.reborn
+Name: MilkyWay Reborn
+Description: A modern rewrite of MilkyWay2 by akusio.
+Maintainer: Huyware, hxhlb
+Author: Huyware, hxhlb
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.0
+Depends: firmware (>=16.0)
+Sileodepiction: https://mortyick.github.io/repo/depictions/milkywqy/huyware.json
+Size: 90380
+Filename: ./debs//home/mortyyick/Downloads/com.milkyway.reborn_1.0_iphoneos-arm64.deb
+MD5sum: 7e7cb783203a30d1c2d98577ffe18579
+SHA1: 232a250f2992a6530b8468b30b5dd3e85efcca27
+SHA256: a145824612c88e51923cdce90e69c37707096058725c170a20c8815579dc1698
