@@ -94,7 +94,7 @@
             },
             {
                "class":"DepictionMarkdownView",
-               "markdown":"- Inital release"
+               "markdown":"- Initial release"
             },
             {
                "class":"DepictionSeparatorView"
