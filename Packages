@@ -1329,3 +1329,35 @@ Filename: ./debs/cera.deb
 MD5sum: 9831ae173d172cff01ae6b2faca2bfaf
 SHA1: f795930d98f3764716a8c650a3a833fc26e875bb
 SHA256: 792fd3da22dff66b2113e3a9e653d6c09a71b8f3ff6430b76de02e4704c4b030
+
+Package: com.mortyick.coolwcatblack
+Name: Coolwcat Black
+Description: A black theme for Laetus, made by Coolwcat.
+Section: Laetus Themes
+Depends: firmware (>=15.0)
+Version: 1.0
+Architecture: iphoneos-arm64
+Author: Coolwcat
+Maintainer: Coolwcat
+Sileodepiction: https://mortyick.github.io/repo/depictions/coolwcat/zekrom.json
+Size: 703808
+MD5sum: d30954ab630caf40173c0499bfe81fd7
+SHA1: 812aa0fd7ea08e2ef44686a1edd3d94d20306686
+SHA256: 9212c28547d54358e6e21ac44aec7a880cc9ad15e6829e8525b7a0e62223102a
+Filename: ./debs/com.mortyick.coolwcatblack_1.0_iphoneos-arm64.deb
+
+Package: com.mortyick.coolwcatwhite
+Name: Coolwcat White
+Description: A white theme for Laetus, made by Coolwcat.
+Section: Laetus Themes
+Depends: firmware (>=15.0)
+Version: 1.0
+Architecture: iphoneos-arm64
+Author: Coolwcat
+Maintainer: Coolwcat
+Sileodepiction: https://mortyick.github.io/repo/depictions/coolwcat/reshiram.json
+Size: 711848
+MD5sum: ceb7a963f966ca03425474d352e40fc3
+SHA1: f0227cf76fb88e17ac5515530f4b126e8fc68756
+SHA256: 0e32fcf736e71ec7e9bd9bd51ba826e58b7e9f19c592a1df2d1eb6f9e23fe28c
+Filename: ./debs/com.mortyick.coolwcatwhite_1.0_iphoneos-arm64.deb
