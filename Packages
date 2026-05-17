@@ -1307,7 +1307,7 @@ Version: 1.0
 Depends: firmware (>=16.0)
 Sileodepiction: https://mortyick.github.io/repo/depictions/milkywqy/huyware.json
 Size: 90380
-Filename: ./debs//home/mortyyick/Downloads/com.milkyway.reborn_1.0_iphoneos-arm64.deb
+Filename: ./debs/com.milkyway.reborn_1.0_iphoneos-arm64.deb
 MD5sum: 7e7cb783203a30d1c2d98577ffe18579
 SHA1: 232a250f2992a6530b8468b30b5dd3e85efcca27
 SHA256: a145824612c88e51923cdce90e69c37707096058725c170a20c8815579dc1698
