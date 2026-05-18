@@ -1361,3 +1361,19 @@ MD5sum: ceb7a963f966ca03425474d352e40fc3
 SHA1: f0227cf76fb88e17ac5515530f4b126e8fc68756
 SHA256: 0e32fcf736e71ec7e9bd9bd51ba826e58b7e9f19c592a1df2d1eb6f9e23fe28c
 Filename: ./debs/com.mortyick.coolwcatwhite_1.0_iphoneos-arm64.deb
+
+Package: com.mortyick.riorespring
+Version: 1.0
+Section: Respring Themes
+Maintainer: Mortyick
+Author: Mortyick
+Architecture: iphoneos-arm64
+Name: Rio
+Description: A Tsukatsuki Rio Respring Theme.
+Depends: firmware (>=15.0)
+Sileodepiction: https://mortyick.github.io/repo/depictions/bluesky/studios.json
+Filename: ./debs/com.mortyick.rio_1.0_iphoneos-arm64.deb
+MD5sum: e362f37b4f958a9859eec131a66b543f
+SHA1: a96a549d81eb70ecc90a5206d94cb516c0643eb8
+SHA256: c53014d35db20c9db6a2adf23039325cc7c44095c0881b33eb9ba70bb8775270
+Size: 192284
