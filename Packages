@@ -1069,11 +1069,11 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Author: Ryan Petrich
 Maintainer: Ryan Petrich
-Size: 47676
-Filename: ./debs/applist_1.6_iphoneos-arm64.deb
-MD5sum: eb607db506f335a85208ee425cd16577
-SHA1: c827f2a4e5e950e3a53c650b238c26471249402e
-SHA256: d40e416ab2ce515391ffad9147d920adaf5046e8af91182442d576a1797af8c7
+Size: 47816
+Filename: ./debs/applist_1.7_iphoneos-arm64.deb
+MD5sum: b616553ece432f2e45fa603461ebcd56
+SHA1: 3f2135a47f95d2b9e3065a061b97b0f1953c0b0a
+SHA256: 48b1957430c4f1cb3ad91b64344dcea80c21df70480ebd5a4d2aebdca1852557
 
 Package: com.rpetrich.rocketbootstrap
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
