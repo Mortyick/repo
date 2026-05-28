@@ -2,7 +2,7 @@
    "class":"DepictionTabView",
    "minVersion":"0.4",
    "headerImage":"https://mortyick.github.io/repo/depictions/Valerie/header2.png",
-   "tintColor": "#EE9CC0",
+   "tintColor": "#cde2f4",
    "tabs":[
       {
          "class":"DepictionStackView",
