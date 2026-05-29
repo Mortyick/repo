@@ -1393,3 +1393,19 @@ SHA1: 372a9557da812e0c9d9568db51b6b1b124ef72b2
 SHA256: 66b2e262690369dcb79eec95387b6b6ac1915701758d03922192d6cbd805e701
 Size: 6230
 Filename: ./debs/thing.deb
+
+Package: com.mortyick.searxng
+Name: Safari SearXNG
+Description: A fork of iCraze's Startpage tweak, but its the version that uses SearXNG instead of Startpage.
+Maintainer: Mortyick
+Author: Mortyick, iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.0
+Sileodepiction: https://mortyick.github.io/repo/depictions/search/engine.json
+MD5sum: f3c6f516af72df3a69a73dd4811aaba6
+SHA1: 8416cb1d03f8eaf1df832da43ed8553f417a5416
+SHA256: d8a92b876616dcd61240dd56d9aff29c4c506fec849f3f7a018bd319396eb59f
+Size: 5940
+Filename: ./debs/peanut.deb
