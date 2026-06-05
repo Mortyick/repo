@@ -1409,3 +1409,18 @@ SHA1: 8416cb1d03f8eaf1df832da43ed8553f417a5416
 SHA256: d8a92b876616dcd61240dd56d9aff29c4c506fec849f3f7a018bd319396eb59f
 Size: 5940
 Filename: ./debs/peanut.deb
+
+Package: com.82flex.unseen
+Name: Unseen
+Description: Neutralizes CALayer disableUpdateMask in the render server
+Maintainer: 82flex
+Author: 82flex
+Section: Tweaks
+Depends: firmware (>= 15.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Size: 42650
+MD5sum: 992884f16343c89e62c6b0c8c1070cff
+SHA1: 9ee7623485ffe2e0798bbdfd714119c65ff34230
+SHA256: a838abe6f6f852fcf04d704dc5c50ae1ba50d0114c0b1a1d08097e90cdedbc93
+Filename: ./debs/com.82flex.unseen_0.0.1_iphoneos-arm64-rootless.deb
