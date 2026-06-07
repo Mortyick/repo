@@ -1418,9 +1418,9 @@ Author: 82flex
 Section: Tweaks
 Depends: firmware (>= 15.0), preferenceloader
 Architecture: iphoneos-arm64
-Version: 0.0.1
-Size: 42650
-MD5sum: 992884f16343c89e62c6b0c8c1070cff
-SHA1: 9ee7623485ffe2e0798bbdfd714119c65ff34230
-SHA256: a838abe6f6f852fcf04d704dc5c50ae1ba50d0114c0b1a1d08097e90cdedbc93
-Filename: ./debs/com.82flex.unseen_0.0.1_iphoneos-arm64-rootless.deb
+Version: 0.0.2
+Size: 43304
+MD5sum: e2c554b14db98ffea55847fc0387d548
+SHA1: 05d8308d837c1265e6961af2c40f8bb7228ca475
+SHA256: e3cbccc4d7a3a1d376338215d1d56ad1925461564735915c120b746bb45a4d90
+Filename: ./debs/com.82flex.unseen_0.0.2_iphoneos-arm64-rootless.deb
