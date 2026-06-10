@@ -1440,3 +1440,4 @@ MD5sum: 6e1ec62941f6e3bf1f3ea4df188bcd9f
 SHA1: ecd401b8ad4f51e5565491a5996eea9980ca3f98
 SHA256: a93e960aee88bb3d65810e8886fd6f6f3bf8b664812310d1bdd89b10e6d869d1
 Filename: ./debs/com.mortyick.volterounded_1.0_iphoneos-arm64.deb
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
