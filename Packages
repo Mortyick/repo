@@ -1441,3 +1441,18 @@ SHA1: ecd401b8ad4f51e5565491a5996eea9980ca3f98
 SHA256: a93e960aee88bb3d65810e8886fd6f6f3bf8b664812310d1bdd89b10e6d869d1
 Filename: ./debs/com.mortyick.volterounded_1.0_iphoneos-arm64.deb
 Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
+
+Package: com.yuikovfa.shrinktime
+Name: ShrinkTime
+Description: Minimal lock screen clock tweak for iOS 16
+Maintainer: YuikoVFA
+Author: YuikoVFA
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0.0
+MD5sum: f4011851f38f78462f244f878af7c9d5
+SHA1: 94b5b7ea596bb1490c623bee83a1ab88d48578bc
+SHA256: 600a538cc6eea125ce701de0498f2b76187a3477362f8f494c02bd54640235f3
+Size: 5036
+Filename: ./debs/flowermadefeather.deb
