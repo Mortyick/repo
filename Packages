@@ -1456,3 +1456,18 @@ SHA1: 94b5b7ea596bb1490c623bee83a1ab88d48578bc
 SHA256: 600a538cc6eea125ce701de0498f2b76187a3477362f8f494c02bd54640235f3
 Size: 5036
 Filename: ./debs/flowermadefeather.deb
+
+Package: com.yuiko.simplelockclock
+Name: SimpleLockClock
+Description: Minimal lock screen clock/date tweak for iOS 16
+Maintainer: Yuiko
+Author: Yuiko
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Size: 8528
+MD5sum: e201f38fc480324445aa468c32a7e8f8
+SHA1: f91be0ba9ee3cd2be08c9ce05a7d673fe8ca8473
+SHA256: 7be407a3a27639e7c352436affbfb951fe1748b4cc7c323d1d78febd9bcf91a6
+Filename: ./debs/ewf.deb
