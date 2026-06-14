@@ -97,6 +97,29 @@
                "markdown":"- Initial release"
             },
             {
+               "class":"DepictionLayerView",
+               "views":[
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"1.1",
+                     "fontWeight":"bold",
+                     "fontSize":16
+                  },
+                  {
+                     "class":"DepictionLabelView",
+                     "text":"June 14, 2026",
+                     "fontWeight":"semibold",
+                     "fontSize":16,
+                     "textColor":"#696969",
+                     "alignment":2
+                  }
+               ]
+            },
+            {
+               "class":"DepictionMarkdownView",
+               "markdown":"- Fixed coloring errors"
+            },
+            {
                "class":"DepictionSeparatorView"
             }
          ]
