@@ -1471,3 +1471,18 @@ MD5sum: e201f38fc480324445aa468c32a7e8f8
 SHA1: f91be0ba9ee3cd2be08c9ce05a7d673fe8ca8473
 SHA256: 7be407a3a27639e7c352436affbfb951fe1748b4cc7c323d1d78febd9bcf91a6
 Filename: ./debs/ewf.deb
+
+Package: com.mortyick.moonlight
+Name: Moonlight
+Architecture: iphoneos-arm64
+Version: 1.0
+Depends: firmware (>=15.0)
+Description: An icon theme by Nicole.
+Author: Mortyick
+Maintainer: Mortyick
+Section: Themes
+Size: 1871748
+Filename: ./debs/com.mortyick.moonlight_1.0_iphoneos-arm64.deb
+MD5sum: ba5143fb9907c95fa1a0acd92c4fe278
+SHA1: 6517aa1eb4e3d429991eb0a56f5110401e1bc433
+SHA256: 91e89c82cf43a5c4e493feae9e567ed48a9e101f9f68d15fdebee8d28ae3a259
