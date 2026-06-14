@@ -1,7 +1,7 @@
 {
    "class":"DepictionTabView",
    "minVersion":"0.4",
-   "headerImage":"https://mortyick.github.io/repo/depictions/Choco/blind.png",
+   "headerImage":"https://mortyick.github.io/repo/depictions/Choco/header.png",
    "tintColor": "#EE9CC0",
    "tabs":[
       {
