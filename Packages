@@ -1006,7 +1006,7 @@ Name: Hackintosh
 Description: Some hackintosh Apple logo as a respring theme.
 Sileodepiction: https://mortyick.github.io/repo/depictions/haxx/Hackintosh.json
 Size: 161152
-Filename: ./debs/com.mortyick.hackintosh_1.1_iphoneos-arm64.deb
+Filename: ./debs/com.mortyick.hackintosh_1.0_iphoneos-arm64.deb
 MD5sum: 9c3c5c6f83e5479c0eb2ef8b3b937ca0
 SHA1: 280c746e1daf3cad4f0501f0cf36bcb1b58fd66e
 SHA256: 33729d7449185823b6d75b48fefa2e6762073d9f4bba0a110dc0a5a0894aa283
