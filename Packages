@@ -1486,3 +1486,18 @@ Filename: ./debs/com.mortyick.moonlight_1.1_iphoneos-arm64.deb
 MD5sum: 3bb317fbc696eb6c0b133b8c5ca13679
 SHA1: 97550b469d9aaf32899fd832d887777a9ade727a
 SHA256: adb1d838defea4b9619e5c6e91e5e439c6a33d1fcdc553e9d875a809b8806531
+
+Package: com.mortyick.mojangles
+Architecture: iphoneos-arm64
+Name: Mojangles
+Version: 1.0
+Description: Half-assed port of the Minecraft font
+Section: Fonts
+Depends: firmware (>=15.0)
+Author: Mortyick
+Maintainer: Mortyick
+Size: 57552
+Filename: ./debs/mojangles.deb
+MD5sum: c206d55578513f9a4e7be60ed855b66f
+SHA1: 1fe02f6f0a66c488793ce3d7f582d12c3040d7fd
+SHA256: ec27fee8e60555d4163c51613f2a3951fdbeeddde7ed03dce40b39ea8ae86a23
