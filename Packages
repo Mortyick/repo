@@ -1496,8 +1496,10 @@ Section: Fonts
 Depends: firmware (>=15.0)
 Author: Mortyick
 Maintainer: Mortyick
-Size: 57552
+Size: 57556
 Filename: ./debs/mojangles.deb
-MD5sum: c206d55578513f9a4e7be60ed855b66f
-SHA1: 1fe02f6f0a66c488793ce3d7f582d12c3040d7fd
-SHA256: ec27fee8e60555d4163c51613f2a3951fdbeeddde7ed03dce40b39ea8ae86a23
+MD5sum: ddb65634e96b8aacc19b11fca3a819a8
+SHA1: 8d01cef51d757308d618a03ad8f224a66d5429da
+SHA256: 7491d3e22907a4c6c06d98ce977e744462947b4598349280a426606f6bef958f
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
+Sileodepiction: https://mortyick.github.io/repo/depictions/chicken/jockey.json
