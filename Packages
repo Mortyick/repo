@@ -1490,7 +1490,7 @@ SHA256: adb1d838defea4b9619e5c6e91e5e439c6a33d1fcdc553e9d875a809b8806531
 Package: com.mortyick.mojangles
 Architecture: iphoneos-arm64
 Name: Mojangles
-Version: 1.0
+Version: 1.0.1
 Description: Half-assed port of the Minecraft font
 Section: Fonts
 Depends: firmware (>=15.0)
