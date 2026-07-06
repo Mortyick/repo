@@ -1503,3 +1503,20 @@ SHA1: 8d01cef51d757308d618a03ad8f224a66d5429da
 SHA256: 7491d3e22907a4c6c06d98ce977e744462947b4598349280a426606f6bef958f
 Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
 Sileodepiction: https://mortyick.github.io/repo/depictions/chicken/jockey.json
+
+Package: com.mortyick.nagino
+Architecture: iphoneos-arm64
+Name: Nagino
+Version: 1.0
+Description: Half-assed port of Nagino
+Section: Fonts
+Depends: firmware (>=15.0)
+Author: Mortyick
+Maintainer: Mortyick
+Sileodepiction: https://mortyick.github.io/repo/depictions/nagi/no.json
+Icon: https://raw.githubusercontent.com/Mortyick/repo/refs/heads/main/images/font.png
+MD5sum: cc053868ca78fa21a4768916bfe2f7fa
+SHA1: 6c20f28ff115e7f5faca97a42cf747b7715a57c0
+SHA256: 3b43ba8df3c2bdd9fb231c971c7957a036457fd57e83ffc4a027042d625b8689
+Size: 3198332
+Filename: ./debs/nagino.deb
