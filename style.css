@@ -11,10 +11,11 @@
 a{
     text-decoration: none;
     color: #d4d4d4;
-    font-size: 15px;
+    font-size: 30px;
 }
 button{
-    width: 115px;
+    width: 195px;
+    height: 55px;
     padding: 8px 0;
     text-align: center;
     margin: 20px 10 px;
@@ -29,7 +30,7 @@ button{
     left: 320px;
     font-family: inherit;
     overflow: hidden;
-    font-size: 20px
+    font-size: 40px
 }
 
 body{
