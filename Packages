@@ -1520,3 +1520,17 @@ SHA1: 6c20f28ff115e7f5faca97a42cf747b7715a57c0
 SHA256: 3b43ba8df3c2bdd9fb231c971c7957a036457fd57e83ffc4a027042d625b8689
 Size: 3198332
 Filename: ./debs/nagino.deb
+
+Package: com.j3nra1n.nookphone
+Name: NookPhone
+Description: Convert your iPhone into a NookPhone
+Author: J3nRa1n
+Maintainer: J3nRa1n
+Version: 1.2
+Section: Themes
+Architecture: iphoneos-arm64
+Size: 1313404
+MD5sum: e8699d1a043a5e13e99b98b967528de0
+SHA1: c852689217456556fd3d4e19592fadd521358837
+SHA256: 45e2c0040919e5865ddff32db9f66ebc06fc255d86b7817376940fe01a462100
+Filename: ./debs/com.j3nra1n.nookphone_1.2_iphoneos-arm64.deb
