@@ -1534,3 +1534,18 @@ MD5sum: e8699d1a043a5e13e99b98b967528de0
 SHA1: c852689217456556fd3d4e19592fadd521358837
 SHA256: 45e2c0040919e5865ddff32db9f66ebc06fc255d86b7817376940fe01a462100
 Filename: ./debs/com.j3nra1n.nookphone_1.2_iphoneos-arm64.deb
+
+Package: com.1di4r.you-up
+Name: You up?
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), ws.hbang.alderis (>= 1.1)
+Description: Solve math equations before dismissing your alarm.
+Maintainer: 1di4r
+Author: 1di4r
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.7.1
+size: 30140
+Filename: ./debs/com.1di4r.you-up
+MD5sum: e311573b037ad178b9c468ecb5350ffe
+SHA1: 35da09f0825fc0458c2ed7949e1ec4efce55d86c
+SHA256: 88a3359de51d61ac5a9385e9f8d2be157f9120622752bb04b2e77d3ee5e6ecd6
