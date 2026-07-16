@@ -1545,7 +1545,7 @@ Section: Tweaks
 Architecture: iphoneos-arm64
 Version: 1.7.1
 size: 30140
-Filename: ./debs/com.1di4r.you-up
+Filename: ./debs/com.1di4r.you-up.deb
 MD5sum: e311573b037ad178b9c468ecb5350ffe
 SHA1: 35da09f0825fc0458c2ed7949e1ec4efce55d86c
 SHA256: 88a3359de51d61ac5a9385e9f8d2be157f9120622752bb04b2e77d3ee5e6ecd6
