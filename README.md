@@ -7,6 +7,9 @@ if you feel the need to archive some DEBs, go ahead, because you never know when
 # Note for Laetus Themes
 There are only 812h/896h 3x themes (designed for notched devices), use the height spoofer option if necessary.
 
+# Another note for Dopamine 3.0 users
+I don't know if any of these will work on versions above 16.x, YMMV.
+
 # stuff that (probably) doesn't work (properly):
 
 wiivamp: lags a lot on ios 16, at least on my device, needs more testing
