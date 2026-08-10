@@ -1534,3 +1534,18 @@ Filename: ./debs/com.1di4r.you-up.deb
 MD5sum: e311573b037ad178b9c468ecb5350ffe
 SHA1: 35da09f0825fc0458c2ed7949e1ec4efce55d86c
 SHA256: 88a3359de51d61ac5a9385e9f8d2be157f9120622752bb04b2e77d3ee5e6ecd6
+
+Package: com.daniel.old-lockscreen
+Name: old-lockscreen
+Description: The iOS 15 (and older) lockscreen on iOS 16!
+Maintainer: Nightwind
+Author: daniel
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.0
+Size: 4192
+Filename: ./debs/com.daniel.old-lockscreen_1.0_iphoneos-arm64.deb
+MD5sum: c8c005096e70b8e9f16a3fc140fa7657
+SHA1: b4f5352368bc3d463d6c4f74f8c820cc0c526c6d
+SHA256: 748fbb5002ef5ca6332ca52a79fe0243a1c159010249db6727055ab11faba0d3
