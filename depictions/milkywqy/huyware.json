@@ -33,7 +33,7 @@
             },
             {
                "class":"DepictionMarkdownView",
-               "markdown": "This brings windowed multitasking, or some shit.",
+               "markdown": "This fork supports 16.x (i think), if you're not on 16 I would probably use the original lmao.",
                "useSpacing":true
             },
             {
