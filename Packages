@@ -324,12 +324,12 @@ Maintainer: Mortyick
 Author: Mortyick
 Section: SnowBoard Extensions
 Architecture: iphoneos-arm64
-Version: 1.1
-Filename: ./debs/mortyick.snowboard.respringextension_1.1_iphoneos-arm64.deb
-Size: 22420
-MD5sum: 81ed57adedf464b68638563b580ac882
-SHA1: bcf0505e8c2afd07b45e70521ec26b67f65bbc04
-SHA256: 38b100322a68184a9c2da59cffd89e0e63aae9d769d92a73b5ff024a002f25cf
+Version: 1.2
+Filename: ./debs/mortyick.snowboard.respringextension_1.2_iphoneos-arm64.deb
+Size: 22440
+MD5sum: a14698843f70a4e305e85350ea22a002
+SHA1: d86d93edead8bd32c546c45089bcbc67d0e0772c
+SHA256: 14aef272d9a54067bfe45ddfff5e6b02d461f400ab6b4e0f0e2830dd93623740
 
 Package: com.mortyick.anya
 Version: 1.0
