@@ -1561,3 +1561,6 @@ Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
 Description: better native-like iOS 18 applock alternative that are free and open source, what else can I say
 Author: pawxed
 Section: Tweaks
+MD5sum: b44180c0e1acfb5074ce806fa506c046
+SHA1: 789e687955f2583fbd57abe258a39456d4af3067
+SHA256: 5306e204350a9f4ad493f9a18059d3a45c8dcf5fe563742c74d344cc161f4df3
