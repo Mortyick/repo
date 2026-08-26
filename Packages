@@ -1549,3 +1549,15 @@ Filename: ./debs/com.milkyway.reborn_1.0_iphoneos-arm64.deb
 MD5sum: 7e7cb783203a30d1c2d98577ffe18579
 SHA1: 232a250f2992a6530b8468b30b5dd3e85efcca27
 SHA256: a145824612c88e51923cdce90e69c37707096058725c170a20c8815579dc1698
+
+Package: com.pawxed.applock
+Name: applock
+Version: 1.1alpha
+Architecture: iphoneos-arm64
+Maintainer: pawxed
+Filename: ./debs/com.pawxed.applock_1.1alpha_iphoneos-arm64.deb
+Size: 19006
+Depends: firmware (>= 14.0), firmware (<< 17.4), ellekit, preferenceloader
+Description: better native-like iOS 18 applock alternative that are free and open source, what else can I say
+Author: pawxed
+Section: Tweaks
