@@ -966,21 +966,6 @@ MD5sum: 068c3a4a883567c247833d25ba8f5e0c
 SHA1: 855bd68c237ee62d0b4d1bbe97f00088706ce112
 SHA256: 31a03fc0479b7d9a3d58a3d3a53ae8084628e07fe836e3ac34c19cd2c1ac1402
 
-Package: com.mortyick.fiveicondock
-Name: FiveIconDock
-Description: 5 icons on your dock, pretty self explanatory.
-Author: Mortyick
-Maintainer: Mortyick
-Section: Tweaks
-Version: 1.0
-Depends: firmware (>=15.0)
-Architecture: iphoneos-arm64
-Size: 3316
-Filename: ./debs/com.mortyick.fiveicondock_1.0_iphoneos-arm64.deb
-MD5sum: 6673be1ad4f3d00dd99bf152d55b5edf
-SHA1: 1fc313b2ad66d39180c47c826c511a54492b003c
-SHA256: 8f4c1d8af7cef3883434c6a50f402596ab3dfd938f13237939c44d628b5e62e0
-
 Package: com.mortyick.donut
 Name: Donut
 Description: The iconic spinning donut but for iOS
