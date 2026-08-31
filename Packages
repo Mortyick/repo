@@ -1534,3 +1534,33 @@ Filename: ./debs/com.milkyway.reborn_1.0_iphoneos-arm64.deb
 MD5sum: 7e7cb783203a30d1c2d98577ffe18579
 SHA1: 232a250f2992a6530b8468b30b5dd3e85efcca27
 SHA256: a145824612c88e51923cdce90e69c37707096058725c170a20c8815579dc1698
+
+Package: online.transrights.kattery
+Name: Kattery
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Make your Wi-Fi, cellular, and battery icons glow! (with colors!)
+Maintainer: Kota & Snoolie
+Author: Kota & Snoolie
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3),  ws.hbang.alderis (>= 1.1)
+Size: 332992
+Filename: ./debs/online.transrights.kattery_1.4_iphoneos-arm.deb
+MD5sum: 59c2a56636229ecf0dabc95cdc8ccd81
+SHA1: 2c47f4dc599393238dbdd184e97b72f82d33a1ca
+SHA256: aacb4ab537cec6713057a33fad2a39f51a0d7dad89b559803e502b77c1269fdc
+
+Package: online.transrights.kattery
+Name: Kattery
+Version: 1.4
+Architecture: iphoneos-arm64
+Description: Make your Wi-Fi, cellular, and battery icons glow! (with colors!)
+Maintainer: Kota & Snoolie
+Author: Kota & Snoolie
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3),  ws.hbang.alderis (>= 1.1)
+Size: 333012
+Filename: ./debs/online.transrights.kattery_1.4_iphoneos-arm64.deb
+MD5sum: 61dd908e8bade363bcbb288aecceb25b
+SHA1: c7cb0367fef5779e54c592db57e3276720638043
+SHA256: 64f1f9fc30f631d22f652327fee9c36c0b5614ecd92b7905af45b2509960c943
