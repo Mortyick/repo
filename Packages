@@ -1564,3 +1564,18 @@ Filename: ./debs/online.transrights.kattery_1.4_iphoneos-arm64.deb
 MD5sum: 61dd908e8bade363bcbb288aecceb25b
 SHA1: c7cb0367fef5779e54c592db57e3276720638043
 SHA256: 64f1f9fc30f631d22f652327fee9c36c0b5614ecd92b7905af45b2509960c943
+
+Package: com.mortyick.pseudo
+Name: pseudo
+Description: sudo alternative
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: firmware (>=14.0)
+Author: Mortyick
+Maintainer: Mortyick
+Section: Other
+Size: 35972
+Filename: ./debs/com.mortyick.pseudo_1.0_iphoneos-arm.deb
+MD5sum: 0485fbdb9dcc3604384297472c3acb41
+SHA1: bdc38e7e0367390a7051d377dfcbbde2c5d397c4
+SHA256: b3aefdfd62dd610bcad301e2131da084c3656f7eb6c8837c44befc40dfceb714
