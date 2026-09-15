@@ -1574,8 +1574,8 @@ Depends: firmware (>=14.0)
 Author: Mortyick
 Maintainer: Mortyick
 Section: Other
-Size: 35972
+Size: 35956
 Filename: ./debs/com.mortyick.pseudo_1.0_iphoneos-arm.deb
-MD5sum: 0485fbdb9dcc3604384297472c3acb41
-SHA1: bdc38e7e0367390a7051d377dfcbbde2c5d397c4
-SHA256: b3aefdfd62dd610bcad301e2131da084c3656f7eb6c8837c44befc40dfceb714
+MD5sum: b8603bd3a60da5dbae344facd0643871
+SHA1: 1c69b4ea32b5a3a3d98ecdb263aa80bd0ab89360
+SHA256: 7f1dc7ca757d2cea17d86ec2f09867989f0b64a65d27ccfe9726e7af5bab1e91
