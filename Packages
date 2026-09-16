@@ -14,22 +14,6 @@ SHA1: 151a99eea289d24b08be4b7253a3797c4774b276
 SHA256: 1173fd7af2cf09b0c2321f97eeafb49fbf3c73e7d7863eab6d2eeeb4f6582d95
 Filename: ./debs/com.34306.banned_0.0.3-1+debug_iphoneos-arm64.deb
 
-Package: lol.sep.turdusmerula
-Name: turdus merula
-Version: 1.1
-Architecture: iphoneos-arm
-Description: meow
-Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
-Maintainer: kok3shi
-Author: Clarity, kok3shidoll, Mineek
-Section: Development
-Depends: firmware (>= 14.0), cy+cpu.arm64, libcurl4, libssl3, usbmuxd
-Size: 1669124
-MD5sum: aecdd9b18cbd3d1a2d40cfe9e0875710
-SHA1: 8d51e39159149af9b58062d2592484d09814254c
-SHA256: 4d4bcc44010b3f25146bc71cba24cb05acd47b1a40e8a44a1c9dab3eb77f453a
-Filename: ./debs/lol.sep.turdusmerula_1.1_b0ea3ee7_iphoneos-arm.deb
-
 Package: com.kjc.loader
 Name: loader
 Version: 1.0
@@ -995,22 +979,6 @@ Filename: ./debs/com.mortyick.hackintosh_1.0_iphoneos-arm64.deb
 MD5sum: 9c3c5c6f83e5479c0eb2ef8b3b937ca0
 SHA1: 280c746e1daf3cad4f0501f0cf36bcb1b58fd66e
 SHA256: 33729d7449185823b6d75b48fefa2e6762073d9f4bba0a110dc0a5a0894aa283
-
-Package: lol.sep.turdusmerula
-Name: turdus merula
-Version: 1.2
-Architecture: iphoneos-arm64
-Description: meow
-Depiction: https://kok3shidoll.github.io/info/lol.sep.turdusmerula/
-Maintainer: kok3shi
-Author: Clarity, kok3shidoll, Mineek
-Section: Development
-Depends: firmware (>= 15.0), cy+cpu.arm64, usbmuxd
-Size: 2598324
-Filename: ./debs/lol.sep.turdusmerula_v1.2_56442188_iphoneos-arm64.deb
-MD5sum: 2d3ca6eb48d78b59048c5a4d612b6af8
-SHA1: 2392fca9e4bdca202fb711c300195857d8990fea
-SHA256: 6e942b3f4ddc741ba3a7160c3015b707d0b7bf88e2d92bfb3832e8d758c9d441
 
 Package: com.mortyick.youwarmmyheart
 Architecture: iphoneos-arm64
