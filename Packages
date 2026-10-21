@@ -610,21 +610,6 @@ SHA1: 2049952e5fc06769ef2688457bc4cc53736e9199
 SHA256: 23a684830b51d6fbb8a20a48d57bcbc678ea8fea88fd2a7b5a152dc2596dffbb
 Size: 14304
 
-Package: com.mortyick.kuromirespring
-Section: Respring Themes
-Maintainer: Mortyick
-Architecture: iphoneos-arm64
-Depends: firmware (>=15.0)
-Description: A Kuromi Respring Theme.
-Name: KuromiRespring
-Author: Mortyick
-Version: 1.0
-Filename: ./debs/com.mortyick.kuromirespring_1.0_iphoneos-arm64.deb
-MD5sum: e041c894f1bfa2d26500746286028e90
-SHA1: ed9232ad4d966ea8974cb2a3946fe678d67844af
-SHA256: b3ba49d9c64433e9bb5ec6352cce0370b083468aee163e3a63802f2bd3bd1014
-Size: 164780
-
 Package: com.mortyick.chococooky
 Architecture: iphoneos-arm64
 Name: ChocoCooky
@@ -827,21 +812,6 @@ SHA1: 7c6b29a9c18a75e09d0ad3fdaafd5db44ba8d758
 SHA256: ff067c21723d1801b5c748bee8b46b3e840f3749febfb6f0d9a126f25a56abd5
 Sileodepiction: https://mortyick.github.io/repo/depictions/klee/Klee.json
 
-Package: com.mortyick.hitori
-Version: 1.0
-Section: Respring Themes
-Maintainer: Mortyick
-Author: Mortyick
-Architecture: iphoneos-arm64
-Name: Hitori
-Description: A Hitori (Gotoh) Respring Theme.
-Size: 233016
-MD5sum: 34827a3f3840522aff07bdb1f5d58f35
-SHA1: d5afae75b5a7eae7712458ae3f0c64896b80cf1f
-SHA256: 6e8dca6744b210749fce2b39c66c8957c9bc8dc5a1b7b5f7977129fa02e37ffa
-Filename: ./debs/com.mortyick.hitori_1.0_iphoneos-arm64.deb
-Sileodepiction: https://mortyick.github.io/repo/depictions/hitori/Hitori.json
-
 Package: com.34306.shimastyle
 Name: ShimaStyle
 Description: Force all notifications to Dynamic Island with custom background support. Supports iOS 16-26.
@@ -872,21 +842,6 @@ SHA1: dab88dde36649c57cf640fabf04863d0e15daf6c
 SHA256: 9226620ab31d6293f87f8ebd54fafff6f863aaea9459ffc77cad639c6ac700eb
 Size: 2916884
 Sileodepiction: https://mortyick.github.io/repo/depictions/color/skript.json
-
-Package: com.mortyick.kirby
-Version: 1.0
-Section: Respring Themes
-Maintainer: Mortyick
-Author: Mortyick
-Architecture: iphoneos-arm64
-Name: Kirby
-Description: A Kirby Respring Theme.
-Size: 143376
-MD5sum: ddc1bb4a34d27230c9fdf1c0002a076f
-SHA1: 2b01b432c5dac9855938cf272ce24a075d07e3a4
-SHA256: 18829c0a13d2916c47de59088aeafb0624268dea58a515683042e93255862045
-Filename: ./debs/com.mortyick.kirby_1.0_iphoneos-arm64.deb
-Sileodepiction: https://mortyick.github.io/repo/depictions/kirby/Kirby.json
 
 Package: com.mortyick.keypadfumo3x
 Name: Fumo (Keypad for 3x)
@@ -1298,22 +1253,6 @@ MD5sum: ceb7a963f966ca03425474d352e40fc3
 SHA1: f0227cf76fb88e17ac5515530f4b126e8fc68756
 SHA256: 0e32fcf736e71ec7e9bd9bd51ba826e58b7e9f19c592a1df2d1eb6f9e23fe28c
 Filename: ./debs/com.mortyick.coolwcatwhite_1.0_iphoneos-arm64.deb
-
-Package: com.mortyick.riorespring
-Version: 1.0
-Section: Respring Themes
-Maintainer: Mortyick
-Author: Mortyick
-Architecture: iphoneos-arm64
-Name: Rio
-Description: A Tsukatsuki Rio Respring Theme.
-Depends: firmware (>=15.0)
-Sileodepiction: https://mortyick.github.io/repo/depictions/bluesky/studios.json
-Filename: ./debs/com.mortyick.rio_1.0_iphoneos-arm64.deb
-MD5sum: e362f37b4f958a9859eec131a66b543f
-SHA1: a96a549d81eb70ecc90a5206d94cb516c0643eb8
-SHA256: c53014d35db20c9db6a2adf23039325cc7c44095c0881b33eb9ba70bb8775270
-Size: 192284
 
 Package: com.mortyick.searxng
 Name: Safari SearXNG
