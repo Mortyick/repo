@@ -1486,3 +1486,18 @@ Filename: ./debs/com.mortyick.pseudo_1.0_iphoneos-arm.deb
 MD5sum: b8603bd3a60da5dbae344facd0643871
 SHA1: 1c69b4ea32b5a3a3d98ecdb263aa80bd0ab89360
 SHA256: 7f1dc7ca757d2cea17d86ec2f09867989f0b64a65d27ccfe9726e7af5bab1e91
+
+Name: Blackfog
+Package: com.susowolf.laetusblackfog
+Architecture: iphoneos-arm64
+Author: SusoWolf
+Version: 1.0
+Description: Blackfog - Laetus Theme
+Maintainer: SusoWolf
+Section: Laetus Themes
+Sileodepiction: https://mortyick.github.io/repo/depictions/suso/blackfog.json
+Size: 2263776
+Filename: ./com.susowolf.laetusblackfog_1.0_iphoneos-arm64.deb
+MD5sum: c5c91dcd6644828f2a5aa8987a71932d
+SHA1: 628bd916b8ce4a6032757376cad76a69c4011d61
+SHA256: b612f95e4b568097d1851c4d8ef183d9a96c15d09f368ee6dee83c2c90bf78ae
