@@ -1311,11 +1311,11 @@ Author: YuikoVFA
 Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
-Version: 1.0.0
-MD5sum: f4011851f38f78462f244f878af7c9d5
-SHA1: 94b5b7ea596bb1490c623bee83a1ab88d48578bc
-SHA256: 600a538cc6eea125ce701de0498f2b76187a3477362f8f494c02bd54640235f3
-Size: 5036
+Version: 1.0.12
+MD5sum: c52576c53425ff1f0ad5b263c234d2ca
+SHA1: 3e2ee1f9f810372d060023173a7a9ee4e2fbd02a
+SHA256: 3e4503935dfa0a55be3594b8b86f30c097ba062fb8e40bef2ae912ec051cf33b
+Size: 3540
 Filename: ./debs/flowermadefeather.deb
 
 Package: com.yuiko.simplelockclock
